@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7adbc5f9d880667c",
+        "id": "bd04cd7d1a5fc641",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "KnowledgeBase/ColdFusion.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/ColdFusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/ColdFusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,8 +101,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7adbc5f9d880667c",
+  "active": "bd04cd7d1a5fc641",
   "lastOpenFiles": [
+    "KnowledgeBase/ColdFusion.md",
     "KnowledgeBase/CFScript Query.md",
     "KnowledgeBase/ColdFusion OOP.md",
     "KnowledgeBase/MySql.md",
