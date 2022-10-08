@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "c18d1ec1274e93f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7adbc5f9d880667c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "226b5e3061e9449a",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c713dd3ba00f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd54e64ea51908bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22edd283140e33f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75af96a967983a7c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59383f5242c1a36b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad857f25e5034fdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edad90030da04c2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f91807cb4e06a20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe7020783f74623b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9c461e7ee0fb013",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7adbc5f9d880667c",
+  "lastOpenFiles": [
+    "KnowledgeBase/CFScript Query.md",
+    "KnowledgeBase/ColdFusion OOP.md",
+    "KnowledgeBase/MySql.md",
+    "KnowledgeBase/ColdFusion Script - QueryExecute.md",
+    "KnowledgeBase/ColdFusion Query of Query.md",
+    "KnowledgeBase/Bootstrap.md"
+  ]
+}

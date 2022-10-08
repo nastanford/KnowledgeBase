@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "ColdFusion",
+      "color": {
+        "a": 1,
+        "rgb": 8500211
+      }
+    },
+    {
+      "query": "PHP",
+      "color": {
+        "a": 1,
+        "rgb": 9204427
+      }
+    },
+    {
+      "query": "Bootstrap",
+      "color": {
+        "a": 1,
+        "rgb": 6030791
+      }
+    },
+    {
+      "query": "Oracle",
+      "color": {
+        "a": 1,
+        "rgb": 16321291
+      }
+    },
+    {
+      "query": "MySql",
+      "color": {
+        "a": 1,
+        "rgb": 13143828
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 1.1,
+  "nodeSizeMultiplier": 1.60993208828523,
+  "lineSizeMultiplier": 4.00585738539898,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 0.929541595925297,
+  "linkDistance": 148,
+  "scale": 1.000000000000002,
+  "close": false
+}
