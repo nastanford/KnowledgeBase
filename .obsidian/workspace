@@ -101,27 +101,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "fe7020783f74623b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e9c461e7ee0fb013",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "KnowledgeBase/ColdFusion.md"
-              }
-            }
           }
         ]
       }
