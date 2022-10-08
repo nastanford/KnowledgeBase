@@ -7,8 +7,13 @@
         "id": "bd04cd7d1a5fc641",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "KnowledgeBase/Vue.Js.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -53,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/Vue.Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/Vue.Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +107,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bd04cd7d1a5fc641",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
     "KnowledgeBase/ColdFusion.md",
     "KnowledgeBase/CFScript Query.md",
