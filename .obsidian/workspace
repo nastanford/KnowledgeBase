@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHP/PHP.md",
+            "file": "KnowledgeBase/Knowledgebase.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/PHP.md",
+                "file": "KnowledgeBase/Knowledgebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/PHP.md",
+                "file": "KnowledgeBase/Knowledgebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd54e64ea51908bd",
+  "active": "f2b9bf6271fd8c15",
   "lastOpenFiles": [
+    "KnowledgeBase/Knowledgebase.md",
+    "PHP/PHP.md",
     "ColdFusion/ColdFusion.md",
-    "Knowledgebase.md",
-    "KnowledgeBase/Vite.md",
-    "KnowledgeBase/Lit.md",
-    "KnowledgeBase/Vue.Js.md",
+    "Bootstrap/Bootstrap.md",
+    "Vite/Vite.md",
+    "Lit/Lit.md",
+    "Vue/Vue.Js.md",
     "ColdFusion/ColdFusion Script - QueryExecute.md",
     "ColdFusion/ColdFusion OOP.md",
-    "KnowledgeBase/CFScript Query.md",
-    "KnowledgeBase/MySql.md",
-    "ColdFusion/ColdFusion Query of Query.md"
+    "ColdFusion/CFScript Query.md"
   ]
 }

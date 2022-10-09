@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "knowledgebase",
+      "color": {
+        "a": 1,
+        "rgb": 5560843
+      }
     }
   ],
   "collapse-display": true,
