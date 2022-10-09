@@ -7,8 +7,13 @@
         "id": "f2b9bf6271fd8c15",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "KnowledgeBase/Lit.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -53,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/Lit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/Lit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2b9bf6271fd8c15",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Lit.md",
     "KnowledgeBase/Vue.Js.md",
     "KnowledgeBase/ColdFusion.md",
     "KnowledgeBase/ColdFusion Script - QueryExecute.md",

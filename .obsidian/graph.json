@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 7133878
       }
+    },
+    {
+      "query": "Lit",
+      "color": {
+        "a": 1,
+        "rgb": 799956
+      }
     }
   ],
   "collapse-display": true,
