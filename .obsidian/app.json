@@ -3,5 +3,6 @@
   "spellcheck": true,
   "showFrontmatter": true,
   "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

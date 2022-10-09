@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b9bf6271fd8c15",
+        "id": "dc96182333673a50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "KnowledgeBase/Knowledgebase.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Knowledgebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Knowledgebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2b9bf6271fd8c15",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Programming/Lit/Lit.md",
+    "logo.svg",
     "KnowledgeBase/Knowledgebase.md",
-    "PHP/PHP.md",
-    "ColdFusion/ColdFusion.md",
-    "Bootstrap/Bootstrap.md",
-    "Vite/Vite.md",
-    "Lit/Lit.md",
-    "Vue/Vue.Js.md",
-    "ColdFusion/ColdFusion Script - QueryExecute.md",
-    "ColdFusion/ColdFusion OOP.md",
-    "ColdFusion/CFScript Query.md"
+    "Untitled.md",
+    "KnowledgeBase/Programming/PHP/PHP.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion.md",
+    "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap.md",
+    "KnowledgeBase/Programming/Vite/Vite.md",
+    "KnowledgeBase/Programming/Vue/Vue.Js.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion Script - QueryExecute.md"
   ]
 }
