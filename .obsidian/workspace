@@ -7,8 +7,13 @@
         "id": "dc96182333673a50",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Git.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,12 +108,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd54e64ea51908bd",
+  "active": "dc96182333673a50",
   "lastOpenFiles": [
-    "KnowledgeBase/Programming/Lit/Lit.md",
     "logo.svg",
+    "KnowledgeBase/Programming/Lit/Lit.md",
     "KnowledgeBase/Knowledgebase.md",
-    "Untitled.md",
+    "Git.md",
     "KnowledgeBase/Programming/PHP/PHP.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion.md",
     "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap.md",
