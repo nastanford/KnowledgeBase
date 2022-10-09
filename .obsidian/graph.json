@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "ColdFusion",
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 13143828
+      }
+    },
+    {
+      "query": "Vue",
+      "color": {
+        "a": 1,
+        "rgb": 7133878
       }
     }
   ],

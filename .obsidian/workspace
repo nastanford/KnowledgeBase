@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd04cd7d1a5fc641",
+        "id": "f2b9bf6271fd8c15",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "KnowledgeBase/ColdFusion.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#coldfusion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/ColdFusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/ColdFusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,12 +102,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd04cd7d1a5fc641",
+  "active": "f2b9bf6271fd8c15",
   "lastOpenFiles": [
+    "KnowledgeBase/Vue.Js.md",
+    "KnowledgeBase/ColdFusion.md",
     "KnowledgeBase/ColdFusion Script - QueryExecute.md",
     "KnowledgeBase/ColdFusion OOP.md",
-    "KnowledgeBase/ColdFusion.md",
-    "KnowledgeBase/Vue.Js.md",
     "KnowledgeBase/CFScript Query.md",
     "KnowledgeBase/MySql.md",
     "KnowledgeBase/ColdFusion Query of Query.md",
