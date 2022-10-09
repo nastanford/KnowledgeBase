@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap Card.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,13 +110,13 @@
   },
   "active": "dc96182333673a50",
   "lastOpenFiles": [
+    "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap.md",
+    "KnowledgeBase/Knowledgebase.md",
+    "KnowledgeBase/Tools/Git.md",
     "logo.svg",
     "KnowledgeBase/Programming/Lit/Lit.md",
-    "KnowledgeBase/Knowledgebase.md",
-    "Git.md",
     "KnowledgeBase/Programming/PHP/PHP.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion.md",
-    "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap.md",
     "KnowledgeBase/Programming/Vite/Vite.md",
     "KnowledgeBase/Programming/Vue/Vue.Js.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion Script - QueryExecute.md"

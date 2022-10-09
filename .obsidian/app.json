@@ -4,5 +4,7 @@
   "showFrontmatter": true,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Ω_attachements"
 }
