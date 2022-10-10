@@ -3,7 +3,7 @@
 
 ## Example
 
-```c
+```php
 component
   displayname = "Department Gateway"
   hint        = "I get the information about the department                 database table. Example a list of the departments."
