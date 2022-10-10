@@ -7,3 +7,4 @@
 * [[Vue.Js]]
 * [[Vite]]
 * [[Lit]]
+* [[React]]
