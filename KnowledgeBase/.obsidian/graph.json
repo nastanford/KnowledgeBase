@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "ColdFusion",
@@ -39,7 +39,7 @@
       "query": "MySql",
       "color": {
         "a": 1,
-        "rgb": 15898139
+        "rgb": 15905892
       }
     },
     {
@@ -47,6 +47,27 @@
       "color": {
         "a": 1,
         "rgb": 8655354
+      }
+    },
+    {
+      "query": "Knowledgebase",
+      "color": {
+        "a": 1,
+        "rgb": 880640
+      }
+    },
+    {
+      "query": "Tools",
+      "color": {
+        "a": 1,
+        "rgb": 13025296
+      }
+    },
+    {
+      "query": "Git",
+      "color": {
+        "a": 1,
+        "rgb": 15307777
       }
     }
   ],
