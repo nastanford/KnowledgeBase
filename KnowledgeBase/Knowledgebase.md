@@ -19,3 +19,6 @@
 ### Tools
 * [[Git]]
 * [[VSCode]]
+
+### Obsidian
+* Learn how to do a query to build a index page.
