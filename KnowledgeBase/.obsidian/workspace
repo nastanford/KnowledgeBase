@@ -7,8 +7,12 @@
         "id": "047fc6601cf03d08",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHP Naming Convention.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHP Naming Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHP Naming Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHP Naming Convention.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "047fc6601cf03d08",
   "lastOpenFiles": [
-    "CSS Frameworks/CSS Frameworks.md",
+    "Programming/PHP/PHP.md",
     "Knowledgebase.md",
+    "CSS Frameworks/CSS Frameworks.md",
     "Programming/Programming.md",
     "Tools/Tools.md",
     "Databases/Databases.md",
     "Databases/MySql/MySql.md",
     "Tools/VSCode.md",
     "Tools/Git.md",
-    "Bootstrap.md",
-    "PHP.md"
+    "Bootstrap.md"
   ]
 }
