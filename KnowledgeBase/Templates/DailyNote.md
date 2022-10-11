@@ -9,40 +9,13 @@ modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") 
 
 << [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
 
+
+### [[OEM - COOP Tools]]
+
+
+### [[Law - Academic]]
+
 ## Tasks
-
-
-#### New Today
-- [ ]
-
-
-## Daily Log
-
-### [[Project 1]]
-
-
-### [[Project 2]]
-
-
-### [[Project 3]]
-
-## Daily Check List
-
-### Start of Day
-
-- [ ] Check Email
-- [ ] Check Teams
-- [ ] Check showing online
-- [ ] Check Calendar - Time Block
-
-### End of Day
-
-- [ ] Show Offline
-- [ ] Clean Unused Headings in Daily Log
-- [ ] Check tomorrow's calendar
-- [ ] Update Timesheet
-
-## Other Tasks
 
 
 
