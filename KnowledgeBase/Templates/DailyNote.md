@@ -19,17 +19,9 @@ modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") 
 
 
 
-#### No Due Date
-
-```tasks
-not done
-no due date
-```
-
 #### Done Today
 
 ```tasks
 done on <% tp.date.now("YYYY-MM-DD") %>
 ```
 
- ![](chrome-extension://annlhfjgbkfmbbejkbdpgbmpbcjnehbb/images/saveicon.png) Save
