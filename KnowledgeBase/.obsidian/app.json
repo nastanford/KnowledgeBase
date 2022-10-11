@@ -1,1 +1,6 @@
-{}
+{
+  "tabSize": 2,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
+}
