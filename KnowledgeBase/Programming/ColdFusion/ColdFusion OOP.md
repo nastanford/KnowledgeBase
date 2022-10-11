@@ -23,6 +23,11 @@
 ## Functions 
 - getAll()
 - getById(id)
+- new()
+- insert()
+- update()
+- delete()
+- 
 
 
 - [[ColdFusion]]
