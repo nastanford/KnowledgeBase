@@ -15,9 +15,6 @@ modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") 
 #### New Today
 - [ ]
 
-## Meeting Log
-
-### 0000:
 
 ## Daily Log
 
@@ -46,6 +43,8 @@ modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") 
 - [ ] Update Timesheet
 
 ## Other Tasks
+
+
 
 #### No Due Date
 
