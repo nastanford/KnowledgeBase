@@ -21,7 +21,8 @@
 - userService - Manager of Users 
 
 ## Functions 
-- getUser(id)
+- getAll()
+- getById(id)
 
 
 - [[ColdFusion]]
