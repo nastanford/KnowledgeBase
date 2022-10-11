@@ -1,4 +1,5 @@
 {
   "autorun": true,
-  "template": ""
+  "template": "Templates/DailyNote",
+  "folder": "Templates"
 }
