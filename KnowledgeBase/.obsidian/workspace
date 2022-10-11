@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7da9996170c561",
+        "id": "dea56c5ca4619820",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/2022-10-11.md",
+            "file": "Daily Notes/2022-10-11.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/2022-10-11.md",
+                "file": "Daily Notes/2022-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/2022-10-11.md",
+                "file": "Daily Notes/2022-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/2022-10-11.md"
+                "file": "Daily Notes/2022-10-11.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60e87a129bbbfbac",
+  "active": "dea56c5ca4619820",
   "lastOpenFiles": [
-    "Templates/DailyNote.md",
+    "Daily Notes/2022-10-11 ws.md",
+    "Projects/Finance - Department Deposit Form.md",
+    "Projects/Campus - my UMB Portal.md",
+    "Projects/Law - Academic.md",
+    "Projects/OEM - COOP Tools.md",
+    "Daily Notes/2022-10-11.md",
+    "Knowledgebase.md",
     "Templates/DailyNote.md",
     "Learn/Untitled.md",
-    "2022-10-11.md",
-    "Learn/Obsidian.md",
-    "CSS Frameworks/Bootstrap/Bootstrap.md",
-    "Programming/ColdFusion/ColdFusion CFC Object.md",
-    "Programming/ColdFusion/ColdFusion CFC Generator.md",
-    "CSS Frameworks/Bootstrap/Alerts.md",
-    "Daily Notes/2022-10-10.md"
+    "2022-10-11.md"
   ]
 }

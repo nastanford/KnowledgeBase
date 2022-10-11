@@ -3,7 +3,7 @@ creation date: <% tp.file.creation_date() %>
 tags: DailyNote <% tp.file.title.split('-')[0] %>
 ---
 
-modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> // This doesn't currently work in front matter, hoping that gets fixed.
+modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
 
 # <% tp.file.title %>
 
@@ -11,19 +11,6 @@ modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") 
 
 ## Tasks
 
-#### Over Due
-
-```tasks
-not done
-due before <% tp.date.now("YYYY-MM-DD") %>
-```
-
-#### Due Today
-
-```tasks
-not done
-due on <% tp.date.now("YYYY-MM-DD") %>
-```
 
 #### New Today
 - [ ]
@@ -56,6 +43,7 @@ due on <% tp.date.now("YYYY-MM-DD") %>
 - [ ] Show Offline
 - [ ] Clean Unused Headings in Daily Log
 - [ ] Check tomorrow's calendar
+- [ ] Update Timesheet
 
 ## Other Tasks
 
