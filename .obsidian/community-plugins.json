@@ -1,5 +1,6 @@
 [
   "obsidian-codemirror-options",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview"
 ]
