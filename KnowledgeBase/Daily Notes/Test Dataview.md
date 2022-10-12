@@ -1,5 +1,5 @@
 # Test Dataview
 
 ```dataview
-table file from [[ColdFusion]]
+table from [[ColdFusion]]
 ```
