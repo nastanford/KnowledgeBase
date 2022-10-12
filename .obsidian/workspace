@@ -7,8 +7,13 @@
         "id": "dc96182333673a50",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,11 +108,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd54e64ea51908bd",
+  "active": "dc96182333673a50",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/Test Dataview.md",
     "KnowledgeBase/Knowledgebase.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion CFC Generator.md",
-    "KnowledgeBase/Daily Notes/Test Dataview.md",
     "KnowledgeBase/Daily Notes/2022-10-11.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion CFC Object.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion.md",
