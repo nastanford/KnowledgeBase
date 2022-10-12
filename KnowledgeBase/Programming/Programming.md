@@ -1,3 +1,9 @@
+---
+creation date: <% tp.file.creation_date() %>
+type: programming
+---
+
+
 # Programming
 #programming
 
@@ -8,3 +14,5 @@
 * [[Vite]]
 * [[Lit]]
 * [[React]]
+
+
