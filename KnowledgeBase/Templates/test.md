@@ -1,2 +1,0 @@
-Created: <% tp.file.creation_date() %>
-{{date:MMM d, YYYY}} {time{}}
