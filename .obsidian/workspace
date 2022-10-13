@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap Card.md",
+            "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap Card.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap Card.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "dc96182333673a50",
   "lastOpenFiles": [
-    "KnowledgeBase/CSS Frameworks/Bootstrap/Bootstrap.md",
+    "KnowledgeBase/Daily Notes/Test Dataview.md",
     "KnowledgeBase/Knowledgebase.md",
-    "KnowledgeBase/Tools/Git.md",
-    "logo.svg",
-    "KnowledgeBase/Programming/Lit/Lit.md",
-    "KnowledgeBase/Programming/PHP/PHP.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion CFC Generator.md",
+    "KnowledgeBase/Daily Notes/2022-10-11.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion CFC Object.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion.md",
-    "KnowledgeBase/Programming/Vite/Vite.md",
-    "KnowledgeBase/Programming/Vue/Vue.Js.md",
-    "KnowledgeBase/Programming/ColdFusion/ColdFusion Script - QueryExecute.md"
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion Script - QueryExecute.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion Query of Query.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion OOP.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion Obect.md"
   ]
 }

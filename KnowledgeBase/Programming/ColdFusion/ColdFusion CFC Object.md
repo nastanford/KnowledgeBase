@@ -1,3 +1,9 @@
+---
+creation date: <% tp.file.creation_date() %>
+type: programming
+language: CFML
+---
+
 # ColdFusion CFC Object
 #coldfusion #cfc #object #oop
 
