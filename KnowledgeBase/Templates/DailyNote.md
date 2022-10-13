@@ -1,6 +1,6 @@
 ---
 creation date: <% tp.file.creation_date() %>
-tags: DailyNote <% tp.file.title.split('-')[0] %>
+tags: DailyNote 
 ---
 
 modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
@@ -17,8 +17,8 @@ Date: {{date:MMM d, YYYY}}
 
 ### [[Law - Academic]]
 
-## Tasks
 
+## Tasks
 
 
 #### Done Today
