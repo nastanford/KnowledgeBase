@@ -8,19 +8,24 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 #oem #cooptools 
 
 Date: 2022-10-13
+---
 
 Attendees:
+---
 * Hayley Markman
 * Laura Cathcart
 * Nathan Stanford
 
 
-# Goals / agenda 
+Goals / agenda 
+---
 1. 
 
-# Discussion notes
+Discussion notes
+---
 - 
 
-# Action items
+Action items
+---
 - [ ] Example
 
