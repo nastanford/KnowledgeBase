@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03b81c3717147a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/workbench.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/test.md",
+                "file": "Templates/workbench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/test.md",
+                "file": "Templates/workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/test.md"
+                "file": "Templates/workbench.md"
               }
             }
           },
@@ -162,10 +175,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cd5c8834161aa353",
+  "active": "03b81c3717147a92",
   "lastOpenFiles": [
-    "Templates/DailyNote.md",
     "Templates/test.md",
+    "Templates/DailyNote.md",
     "Templates/meta.md",
     "Templates/Title.md",
     "{{title}}.md",

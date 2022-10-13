@@ -1,2 +1,3 @@
 Created: <% tp.file.creation_date() %>
-{{date:MMM d, YYYY}} {time{}}
+Oct 4, 2022 {time{}}
+
