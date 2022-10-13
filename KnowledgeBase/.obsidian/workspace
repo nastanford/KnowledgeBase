@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+            "file": "Projects/OEM - COOP Tools.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+                "file": "Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+                "file": "Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md"
+                "file": "Projects/OEM - COOP Tools.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "dea56c5ca4619820",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-13.md",
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+    "Daily Notes/2022-10-13.md",
     "Templates/Eishenhower Matrix Template.md",
     "Templates/Meeting Notes Template.md",
     "Templates/DailyNote.md",

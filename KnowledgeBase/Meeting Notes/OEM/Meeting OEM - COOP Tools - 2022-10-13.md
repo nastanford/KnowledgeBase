@@ -11,7 +11,7 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ## Attendees:
 * [[Hayley Markman]]
 * [[Laura Cathcart]]
-* Nathan Stanford
+* [[Nathan Stanford]]
 
 
 ## Goals / agenda 
