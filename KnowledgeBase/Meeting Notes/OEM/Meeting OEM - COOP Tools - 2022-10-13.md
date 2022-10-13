@@ -3,8 +3,6 @@ creation date: <% tp.file.creation_date() %>
 tags: OEM, COOPTools, Meeting, 2022-10-13
 Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ---
-
-# Meeting OEM - [[2022-10-13 ]]- COOP Tools 
 #oem #cooptools 
 
 ## Project:
@@ -33,6 +31,5 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 - [ ] Add Log of Request and who approved/rejected and date
 - [ ] Add Status Icons - 
 - [ ] Cards tilted for Plan Page add/edit/delete
-- [ ] 
 
 

@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Push to Production.md",
+                "file": "Projects/OEM - COOP Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3605d51395c66231",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "a.jpg"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Push to Production.md",
+                "file": "a.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Push to Production.md",
+                "file": "a.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Push to Production.md"
+                "file": "a.jpg"
               }
             }
           },
@@ -160,17 +170,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8d9330bb50a4e88a",
+  "active": "3605d51395c66231",
   "lastOpenFiles": [
+    "Projects/Campus - Push to Production.md",
     "Projects/OEM - COOP Tools.md",
-    "Daily Notes/2022-10-13.md",
-    "Daily Notes/Push to Production.md",
-    "Daily Notes/2022-10-11.md",
-    "Daily Notes/2022-10-10.md",
-    "Daily Notes/2022-10-12.md",
     "Projects/Law - Academic.md",
     "Projects/Finance - Department Deposit Form.md",
-    "CSS Frameworks/Bootstrap/Bootstrap Card.md",
-    "CSS Frameworks/Bootstrap/Bootstrap.md"
+    "Projects/Campus - my UMB Portal.md",
+    "Learn/Obsidian.md",
+    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+    "Daily Notes/Push to Production.md",
+    "Daily Notes/2022-10-13.md",
+    "Daily Notes/2022-10-11.md"
   ]
 }
