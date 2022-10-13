@@ -5,9 +5,9 @@ tags: DailyNote <% tp.file.title.split('-')[0] %>
 
 modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
 
-# {{title}}
+# test
 
-Date: {{date:MMM d, YYYY}}
+Date: Oct 4, 2022
 
 << [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
 
