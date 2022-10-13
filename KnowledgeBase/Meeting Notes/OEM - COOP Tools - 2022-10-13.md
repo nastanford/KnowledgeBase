@@ -7,7 +7,7 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 # OEM - 2022-10-13 - COOP Tools 
 #oem #cooptools 
 
-## Date: 2022-10-13 10:00 am
+> Date: 2022-10-13 10:00 am
 
 ## Attendees:
 
@@ -16,15 +16,14 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 * Nathan Stanford
 
 
-Goals / agenda 
+## Goals / agenda 
 
 1. 
 
-Discussion notes
----
+## Discussion notes
+
 - 
 
-Action items
----
+## Action items
 - [ ] Example
 
