@@ -4,7 +4,8 @@
 Date: 2022-10-13
 
 Attendees:
-
+* Hayley Markman
+* 
 
 
 # Goals / agenda 
