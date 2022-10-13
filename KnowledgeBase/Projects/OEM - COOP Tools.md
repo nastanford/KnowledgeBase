@@ -1,4 +1,3 @@
-# OEM - COOP Tools
 #project #oem #cooptools #tasks
 
 ## Action Items

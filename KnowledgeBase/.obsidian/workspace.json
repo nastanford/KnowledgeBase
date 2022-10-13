@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e5818e4b94c05a7",
+            "id": "b1e6f704c1899458",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/OEM - COOP Tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/OEM - COOP Tools.md"
+              }
             }
           },
           {
@@ -139,17 +147,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e5818e4b94c05a7",
+  "active": "b1e6f704c1899458",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-13.md",
-    "Projects/OEM - COOP Tools.md",
-    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
+    "Projects/OEM - COOP Tools.md",
+    "Projects/Law - Academic.md",
+    "Projects/Finance - Department Deposit Form.md",
+    "CSS Frameworks/Bootstrap/Bootstrap.md",
+    "Projects/Campus - my UMB Portal.md",
+    "Daily Notes/2022-10-13.md",
+    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "Templates/DailyNote.md",
-    "Templates/Eishenhower Matrix Template.md",
-    "Templates/Meeting Notes Template.md",
-    "Daily Notes/2022-10-12.md",
-    "Templates/test.md",
-    "Meeting Notes/Test Daily.md"
+    "Templates/Eishenhower Matrix Template.md"
   ]
 }
