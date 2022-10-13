@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "352fadfd230941ef",
+        "id": "81a87b366bfa34c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e6f704c1899458",
+            "id": "7296db53704e540b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
+                "file": "Projects/Campus - Push to Production.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8d9330bb50a4e88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/OEM - COOP Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3605d51395c66231",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "a.jpg"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a.jpg",
+                "file": "Projects/Campus - Push to Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a.jpg",
+                "file": "Projects/Campus - Push to Production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a.jpg"
+                "file": "Projects/Campus - Push to Production.md"
               }
             }
           },
@@ -170,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3605d51395c66231",
+  "active": "7296db53704e540b",
   "lastOpenFiles": [
+    "Daily Notes/Push to Production.md",
     "Projects/Campus - Push to Production.md",
     "Projects/OEM - COOP Tools.md",
+    "a.jpg",
     "Projects/Law - Academic.md",
     "Projects/Finance - Department Deposit Form.md",
     "Projects/Campus - my UMB Portal.md",
     "Learn/Obsidian.md",
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
-    "Daily Notes/Push to Production.md",
-    "Daily Notes/2022-10-13.md",
-    "Daily Notes/2022-10-11.md"
+    "Daily Notes/2022-10-13.md"
   ]
 }
