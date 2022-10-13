@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dea56c5ca4619820",
-        "type": "leaf",
-        "state": {
-          "type": "full-calendar-view",
-          "state": {}
-        }
+        "id": "352fadfd230941ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5818e4b94c05a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -53,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,11 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dea56c5ca4619820",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4e5818e4b94c05a7",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-13.md",
     "Projects/OEM - COOP Tools.md",
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
-    "Daily Notes/2022-10-13.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "Templates/DailyNote.md",
     "Templates/Eishenhower Matrix Template.md",
