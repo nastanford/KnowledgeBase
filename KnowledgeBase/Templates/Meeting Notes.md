@@ -1,18 +1,16 @@
 # {{title}}
 
-Date: {{date:YYYY-MM-DDMMM d, YYYY}}
-Attendees:
+Date: {{date:YYYY-MM-DD}}
 
----
+## Attendees:
 
-# Goals / agenda
+
+## Goals / agenda
 1. 
 
-# Discussion notes
+## Discussion notes
 - 
 
-# Action items
+## Action items
 - [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
 
