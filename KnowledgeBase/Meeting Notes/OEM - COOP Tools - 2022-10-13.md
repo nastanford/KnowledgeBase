@@ -1,7 +1,8 @@
 ---
+meeting title: OEM - COOP Tools - <% tp.file.creation_date() %>
 creation date: <% tp.file.creation_date() %>
 tags: DailyNote <% tp.file.title.split('-')[0] %>
-Attendees: Hayley Markman
+Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ---
 
 # OEM - COOP Tools - 2022-10-13
