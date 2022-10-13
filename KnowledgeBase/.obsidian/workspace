@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/DailyNote.md",
-            "mode": "source",
+            "file": "Daily Notes/2022-10-13.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/DailyNote.md",
+                "file": "Daily Notes/2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/DailyNote.md",
+                "file": "Daily Notes/2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/DailyNote.md"
+                "file": "Daily Notes/2022-10-13.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "dea56c5ca4619820",
   "lastOpenFiles": [
-    "Templates/test.md",
     "Templates/DailyNote.md",
+    "Templates/test.md",
     "Templates/Meeting Notes.md",
     "Meeting Notes/Test Daily.md",
     "Meeting Notes/OEM - COOP Tools - 2022-10-13.md",
