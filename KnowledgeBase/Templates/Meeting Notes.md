@@ -12,5 +12,5 @@ Date: {{date:YYYY-MM-DD}}
 - 
 
 ## Action items
-- [ ] Meeting Notes Distributed to the Team
+- [ ] Example
 
