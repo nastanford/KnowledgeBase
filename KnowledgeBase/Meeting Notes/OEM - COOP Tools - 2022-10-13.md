@@ -1,10 +1,10 @@
 # OEM - COOP Tools - 2022-10-13
 #oem #cooptools 
-# <% tp.file.title %>
 
-Date: {{date:MMM d, YYYY}}
+Date: 2022-10-13
 
 Attendees:
+
 
 
 # Goals / agenda 
