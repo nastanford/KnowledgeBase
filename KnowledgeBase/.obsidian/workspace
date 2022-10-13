@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-13.md",
+            "file": "Projects/OEM - COOP Tools.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-13.md"
+                "file": "Projects/OEM - COOP Tools.md"
               }
             }
           },
@@ -139,10 +139,10 @@
   "active": "dea56c5ca4619820",
   "lastOpenFiles": [
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+    "Projects/OEM - COOP Tools.md",
     "Daily Notes/2022-10-13.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "Templates/DailyNote.md",
-    "Projects/OEM - COOP Tools.md",
     "Templates/Eishenhower Matrix Template.md",
     "Templates/Meeting Notes Template.md",
     "Daily Notes/2022-10-12.md",
