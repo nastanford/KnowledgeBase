@@ -22,9 +22,9 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 3. Ask for Questions/Suggestions?
 
 ## Discussion notes
-- 
+- Historical 
 
 ## Action items
  
-- [ ] Example
+- [ ] Add Log of Request and who approved./
 
