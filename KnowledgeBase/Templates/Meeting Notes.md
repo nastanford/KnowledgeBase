@@ -1,9 +1,8 @@
-```
 # {{title}}
 
 Date: {{date:MMM d, YYYY}}
 Attendees:
-* name 1
+
 ---
 
 # Goals / agenda
@@ -13,6 +12,7 @@ Attendees:
 - 
 
 # Action items
-- [ ] Example
+- [ ] Meeting Notes Distributed to the Team
+- [ ] Tasks & Projects Completed, Processed or Delegated
+- [ ] Key Dates Completed or Scheduled
 
-```
