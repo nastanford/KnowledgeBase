@@ -27,4 +27,5 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ## Action items
  
 - [ ] Add Log of Request and who approved/rejected and date
+- [ ] Add Status Icons
 
