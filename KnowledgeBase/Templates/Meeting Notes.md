@@ -1,6 +1,6 @@
 # {{title}}
 
-Date: {{date:MMM d, YYYY}}
+Date: {{date:YYYY-MM-DDMMM d, YYYY}}
 Attendees:
 
 ---
