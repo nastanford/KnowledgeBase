@@ -7,4 +7,4 @@
 - [ ] Cards tilted for Plan Page add/edit/delete
 
 
-![[a.jpg|300]]
+![[a.jpg]]
