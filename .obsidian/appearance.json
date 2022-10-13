@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidianite",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 25
 }
