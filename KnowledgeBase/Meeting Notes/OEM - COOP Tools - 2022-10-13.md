@@ -2,14 +2,14 @@
 #oem #cooptools 
 
 ```
-# {{title}}
+# <% tp.file.title %>
 
 Date: {{date:MMM d, YYYY}}
 Attendees:
 
 ---
 
-# Goals / agenda
+# Goals / agenda 
 1. 
 
 # Discussion notes

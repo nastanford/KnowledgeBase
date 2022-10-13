@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-13.md",
+            "file": "Meeting Notes/OEM - COOP Tools - 2022-10-13.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Meeting Notes/OEM - COOP Tools - 2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Meeting Notes/OEM - COOP Tools - 2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-13.md"
+                "file": "Meeting Notes/OEM - COOP Tools - 2022-10-13.md"
               }
             }
           },
@@ -138,13 +138,13 @@
   },
   "active": "dea56c5ca4619820",
   "lastOpenFiles": [
-    "Templates/OEM - COOP Tools - 2022-10-13.md",
-    "Templates/Meeting Notes.md",
+    "Templates/DailyNote.md",
     "Daily Notes/2022-10-13.md",
+    "Meeting Notes/OEM - COOP Tools - 2022-10-13.md",
+    "Templates/Meeting Notes.md",
     "Daily Notes/2022-10-11.md",
     "Daily Notes/2022-10-10.md",
     "Daily Notes/2022-10-12.md",
-    "Templates/DailyNote.md",
     "2022-10-11.md",
     "Daily Notes/2022-10-11 ws.md",
     "Projects/Finance - Department Deposit Form.md"
