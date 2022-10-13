@@ -12,19 +12,19 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 
 ## Attendees:
 * [[Hayley Markman]]
-* [[Laura Cathcart]]
 * [[Nathan Stanford]]
 
 
 ## Goals / agenda 
-1. Get Assumed Meeting
+1. Get Assumed Meeting Date
 2. Show Demo of Site
 3. Ask for Questions/Suggestions?
 
 ## Discussion notes
-- Historical 
+- Historical Logs
+- No Later than (June 30,2023)
 
 ## Action items
  
-- [ ] Add Log of Request and who approved./
+- [ ] Add Log of Request and who approved/rejected and date
 
