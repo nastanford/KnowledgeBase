@@ -18,6 +18,8 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 
 ## Goals / agenda 
 1. Get Assumed Meeting
+2. Show Demo of Site
+3. Ask for Questions/Suggestions?
 
 ## Discussion notes
 - 
