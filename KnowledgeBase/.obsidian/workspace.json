@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
+                "file": "Daily Notes/2022-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
+                "file": "Daily Notes/2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
+                "file": "Daily Notes/2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md"
+                "file": "Daily Notes/2022-10-13.md"
               }
             }
           },
@@ -149,10 +149,10 @@
   },
   "active": "b1e6f704c1899458",
   "lastOpenFiles": [
-    "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "Projects/OEM - COOP Tools.md",
     "Projects/Law - Academic.md",
     "Projects/Finance - Department Deposit Form.md",
+    "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "CSS Frameworks/Bootstrap/Bootstrap.md",
     "Projects/Campus - my UMB Portal.md",
     "Daily Notes/2022-10-13.md",
