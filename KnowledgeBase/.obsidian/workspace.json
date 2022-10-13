@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/workbench.md",
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/workbench.md",
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/workbench.md",
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/workbench.md"
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "03b81c3717147a92",
   "lastOpenFiles": [
+    "Templates/workbench.md",
     "Templates/test.md",
     "Templates/DailyNote.md",
     "Templates/meta.md",
@@ -185,7 +186,6 @@
     "Projects/Untitled.md",
     "Projects/Campus - Push to Production.md",
     "Projects/Test.md",
-    "Daily Notes/Push to Production.md",
-    "Projects/OEM - COOP Tools.md"
+    "Daily Notes/Push to Production.md"
   ]
 }

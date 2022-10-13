@@ -12,7 +12,6 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 * [[Hayley Markman]]
 * [[Nathan Stanford]]
 
-
 ## Goals / agenda 
 1. Get Assumed Meeting Date
 2. Show Demo of Site
