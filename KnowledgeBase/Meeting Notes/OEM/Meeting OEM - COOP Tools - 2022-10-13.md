@@ -17,7 +17,7 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 
 
 ## Goals / agenda 
-1. 
+1. Get Assumed Meeting
 
 ## Discussion notes
 - 
