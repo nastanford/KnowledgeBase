@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Test Note.md",
+            "file": "Meeting Notes/Test Daily.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Test Note.md",
+                "file": "Meeting Notes/Test Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/Test Note.md",
+                "file": "Meeting Notes/Test Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/Test Note.md"
+                "file": "Meeting Notes/Test Daily.md"
               }
             }
           },
