@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Daily Notes/2022-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Daily Notes/2022-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-13.md",
+                "file": "Daily Notes/2022-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-13.md"
+                "file": "Daily Notes/2022-10-11.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "b1e6f704c1899458",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-10.md",
+    "Daily Notes/2022-10-11.md",
+    "Daily Notes/2022-10-12.md",
+    "Daily Notes/2022-10-13.md",
     "Projects/OEM - COOP Tools.md",
     "Projects/Law - Academic.md",
     "Projects/Finance - Department Deposit Form.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "CSS Frameworks/Bootstrap/Bootstrap.md",
-    "Projects/Campus - my UMB Portal.md",
-    "Daily Notes/2022-10-13.md",
-    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
-    "Templates/DailyNote.md",
-    "Templates/Eishenhower Matrix Template.md"
+    "Projects/Campus - my UMB Portal.md"
   ]
 }
