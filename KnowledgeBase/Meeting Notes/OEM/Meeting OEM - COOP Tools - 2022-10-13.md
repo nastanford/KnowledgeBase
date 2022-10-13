@@ -23,14 +23,15 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ## Discussion notes
 - Historical Logs
 - No Later than (June 30,2023)
-- Cards tilted for Plan Page add/edit/delete
+->
+```
+<i class="fa-duotone fa-arrow-rotate-right"></i>
+```
 
 ## Action items
  
 - [ ] Add Log of Request and who approved/rejected and date
 - [ ] Add Status Icons - 
-```
-<i class="fa-duotone fa-arrow-rotate-right"></i>
-```
+- [ ] Cards tilted for Plan Page add/edit/delete
 - [ ] 
 
