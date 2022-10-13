@@ -23,7 +23,7 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ## Discussion notes
 - Historical Logs
 - No Later than (June 30,2023)
-->
+
 ```
 <i class="fa-duotone fa-arrow-rotate-right"></i>
 ```
@@ -33,5 +33,5 @@ Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 - [ ] Add Log of Request and who approved/rejected and date
 - [ ] Add Status Icons - 
 - [ ] Cards tilted for Plan Page add/edit/delete
-- [ ] 
+
 
