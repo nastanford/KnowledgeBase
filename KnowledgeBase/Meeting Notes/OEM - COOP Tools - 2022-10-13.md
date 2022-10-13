@@ -4,7 +4,7 @@ tags: OEM, COOP Tools, 2022-10-13
 Attendees: Hayley Markman, Laura Cathcart, Nathan Stanford
 ---
 
-# OEM - COOP Tools - 2022-10-13
+# OEM - 2022-10-13 - COOP Tools 
 #oem #cooptools 
 
 Date: 2022-10-13
@@ -22,7 +22,5 @@ Attendees:
 - 
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+- [ ] Example
 
