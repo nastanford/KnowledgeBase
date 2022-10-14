@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Status/2022-10-13.md",
+                "file": "Daily Notes/2022-10-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Status/2022-10-13.md",
+                "file": "Daily Notes/2022-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Status/2022-10-13.md",
+                "file": "Daily Notes/2022-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Status/2022-10-13.md"
+                "file": "Daily Notes/2022-10-14.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "60e87a129bbbfbac",
+  "active": "18d23dcb14eba557",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-11.md",
+    "Weekly Status/2022-10-10 - 2022-10-14.md",
     "Daily Notes/2022-10-14.md",
+    "Daily Notes/2022-10-11.md",
+    "Templates/Weekly Status.md",
+    "Templates/DailyNote.md",
     "Notes/AVD - Software Install List.md",
-    "Weekly Status/2022-10-13.md",
     "Projects/OEM - COOP Tools.md",
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "Learn/Obsidian.md",
-    "Projects/Untitled.md",
-    "Projects/Campus - Push to Production.md",
-    "CSS Frameworks/Bootstrap/Bootstrap Card.md"
+    "Projects/Untitled.md"
   ]
 }
