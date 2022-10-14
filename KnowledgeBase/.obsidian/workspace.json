@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7854cd841e0f93df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/AVD - Software Install List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-14.md",
+                "file": "Daily Notes/AVD - Software Install List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-14.md",
+                "file": "Daily Notes/AVD - Software Install List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-14.md"
+                "file": "Daily Notes/AVD - Software Install List.md"
               }
             }
           },
@@ -148,10 +162,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "03b81c3717147a92",
+  "active": "7854cd841e0f93df",
   "lastOpenFiles": [
-    "Projects/OEM - COOP Tools.md",
     "Daily Notes/2022-10-14.md",
+    "Projects/OEM - COOP Tools.md",
     "Learn/Obsidian.md",
     "Projects/Untitled.md",
     "Projects/Campus - Push to Production.md",
