@@ -24,8 +24,13 @@
             "id": "7854cd841e0f93df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/OEM - COOP Tools.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/OEM - COOP Tools.md"
+              }
             }
           },
           {
@@ -155,15 +164,15 @@
   },
   "active": "7854cd841e0f93df",
   "lastOpenFiles": [
-    "Daily Notes/AVD - Software Install List.md",
     "Daily Notes/2022-10-14.md",
+    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+    "Daily Notes/AVD - Software Install List.md",
     "Projects/OEM - COOP Tools.md",
     "Learn/Obsidian.md",
     "Projects/Untitled.md",
     "Projects/Campus - Push to Production.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "Templates/DailyNote.md",
-    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "Templates/test.md"
   ]
 }
