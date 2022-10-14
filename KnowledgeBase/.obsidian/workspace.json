@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81a87b366bfa34c8",
+        "id": "c4b08f60ce551e45",
         "type": "tabs",
         "children": [
           {
-            "id": "18d23dcb14eba557",
+            "id": "6bb11bb60bff05d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Campus - my UMB Portal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04d83674630d6074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/OEM - COOP Tools.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Campus - my UMB Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Campus - my UMB Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Campus - my UMB Portal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,14 +139,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "18d23dcb14eba557",
+  "active": "6bb11bb60bff05d3",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-14.md",
     "Projects/OEM - COOP Tools.md",
+    "Projects/Campus - my UMB Portal.md",
+    "Daily Notes/2022-10-14.md",
     "Projects/Law - Academic.md",
     "Projects/Finance - Department Deposit Form.md",
     "Projects/Campus - Push to Production.md",
-    "Projects/Campus - my UMB Portal.md",
     "Notes/AVD - Software Install List.md",
     "Notes/Untitled.md",
     "Weekly Status/Plans.md",
