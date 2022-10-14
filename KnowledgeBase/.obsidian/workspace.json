@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-14.md",
+                "file": "Projects/Campus - my UMB Portal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
+                "file": "Projects/OEM - COOP Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/AVD - Software Install List.md",
+                "file": "Projects/Campus - my UMB Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/AVD - Software Install List.md",
+                "file": "Projects/Campus - my UMB Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AVD - Software Install List.md"
+                "file": "Projects/Campus - my UMB Portal.md"
               }
             }
           },
@@ -162,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "60e87a129bbbfbac",
+  "active": "18d23dcb14eba557",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
-    "Notes/AVD - Software Install List.md",
-    "Weekly Status/Plans.md",
-    "Weekly Status/2022-10-10 - 2022-10-14.md",
     "Daily Notes/2022-10-14.md",
-    "Daily Notes/Plans.md",
-    "Daily Notes/2022-10-11.md",
-    "Templates/Weekly Status.md",
-    "Templates/DailyNote.md",
-    "Projects/OEM - COOP Tools.md"
+    "Projects/OEM - COOP Tools.md",
+    "Projects/Law - Academic.md",
+    "Projects/Finance - Department Deposit Form.md",
+    "Projects/Campus - Push to Production.md",
+    "Projects/Campus - my UMB Portal.md",
+    "Notes/AVD - Software Install List.md",
+    "Notes/Untitled.md",
+    "Weekly Status/Plans.md",
+    "Weekly Status/2022-10-10 - 2022-10-14.md"
   ]
 }
