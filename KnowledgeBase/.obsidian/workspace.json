@@ -11,8 +11,13 @@
             "id": "6bb11bb60bff05d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md"
+              }
             }
           },
           {
@@ -141,9 +150,9 @@
   },
   "active": "6bb11bb60bff05d3",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-14.md",
     "Projects/OEM - COOP Tools.md",
     "Projects/Campus - my UMB Portal.md",
-    "Daily Notes/2022-10-14.md",
     "Projects/Law - Academic.md",
     "Projects/Finance - Department Deposit Form.md",
     "Projects/Campus - Push to Production.md",
