@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Weekly Status.md",
+                "file": "Weekly Status/2022-10-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Weekly Status.md",
+                "file": "Weekly Status/2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Weekly Status.md",
+                "file": "Weekly Status/2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Weekly Status.md"
+                "file": "Weekly Status/2022-10-13.md"
               }
             }
           },
@@ -148,12 +148,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "18d23dcb14eba557",
+  "active": "60e87a129bbbfbac",
   "lastOpenFiles": [
     "Daily Notes/2022-10-11.md",
     "Daily Notes/2022-10-14.md",
     "Notes/AVD - Software Install List.md",
-    "Notes/Weekly Status.md",
+    "Weekly Status/2022-10-13.md",
     "Projects/OEM - COOP Tools.md",
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "Learn/Obsidian.md",
