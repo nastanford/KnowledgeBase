@@ -6,20 +6,27 @@
 - Notepad ++
 
 ## Need Installed
+
+#### For Local
+- ColdFusion Server - Developer Edition
+#### IDE's
+- ColdFusion Builder
 - Visual Studio Code
-- Color Cop
+- Dreamweaver
+
+- Microsoft SQL Server Management Management Studio
 - Oracle SQL Developer - unzip to a folder
 - Oracle SQL Developer Data Modeler - unzip to a folder
-- Adobe Creative package
-- TechSmith – Snagit
-- Microsoft SQL Server Management Management Studio
-- ColdFusion Server - Developer Edition
-- ColdFusion Builder
+- Aqua Data Studio
+
+#### For PHP Development
 - PHP
 - Xampp – for PHP
 - Composer – for PHP
-- Dreamweaver
-- Adobe Acrobat
-- Adobe Dreamweaver
-- Adobe Photoshop
-- Aqua Data Studio
+
+- Color Cop
+- Adobe Creative package
+	-  Adobe Acrobat
+	- Adobe Photoshop
+
+- TechSmith – Snagit
