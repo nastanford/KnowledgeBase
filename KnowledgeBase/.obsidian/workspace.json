@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
-                "mode": "source",
+                "file": "Notes/AVD - Software Install List.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
+                "file": "Notes/AVD - Software Install List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md",
+                "file": "Notes/AVD - Software Install List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/OEM - COOP Tools.md"
+                "file": "Notes/AVD - Software Install List.md"
               }
             }
           },
@@ -164,10 +164,10 @@
   },
   "active": "7854cd841e0f93df",
   "lastOpenFiles": [
+    "Projects/OEM - COOP Tools.md",
     "Daily Notes/2022-10-14.md",
     "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
-    "Daily Notes/AVD - Software Install List.md",
-    "Projects/OEM - COOP Tools.md",
+    "Notes/AVD - Software Install List.md",
     "Learn/Obsidian.md",
     "Projects/Untitled.md",
     "Projects/Campus - Push to Production.md",

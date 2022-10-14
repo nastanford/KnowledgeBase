@@ -1,5 +1,4 @@
 
-# AVD - Software Install List
 ## Already installed
 - Git
 - NPM 
