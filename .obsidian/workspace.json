@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Databases/MySql/MySql.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Databases/MySql/MySql.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Databases/MySql/MySql.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,7 @@
   },
   "active": "dc96182333673a50",
   "lastOpenFiles": [
+    "KnowledgeBase/Databases/MySql/MySql.md",
     "KnowledgeBase/Daily Notes/2022-10-15.md",
     "KnowledgeBase/Daily Notes/2022-10-14.md",
     "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
@@ -129,7 +130,6 @@
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Daily Notes/2022-10-10.md",
     "KnowledgeBase/Daily Notes/2022-10-12.md",
-    "KnowledgeBase/Learn/Obsidian.md",
-    "KnowledgeBase/Projects/OEM - COOP Tools.md"
+    "KnowledgeBase/Learn/Obsidian.md"
   ]
 }
