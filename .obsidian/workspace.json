@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3800c87c79e60c",
+        "id": "2c590cb8a3a835f9",
         "type": "tabs",
         "children": [
           {
-            "id": "dc96182333673a50",
+            "id": "26f762b051ade1de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -119,17 +119,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dc96182333673a50",
+  "active": "26f762b051ade1de",
   "lastOpenFiles": [
-    "KnowledgeBase/Databases/MySql/MySql.md",
     "KnowledgeBase/Daily Notes/2022-10-15.md",
-    "KnowledgeBase/Daily Notes/2022-10-14.md",
-    "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+    "KnowledgeBase/Daily Notes/2022-10-16.md",
     "KnowledgeBase/Daily Notes/2022-10-13.md",
+    "KnowledgeBase/Daily Notes/2022-10-14.md",
+    "KnowledgeBase/Databases/MySql/MySql.md",
+    "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Daily Notes/2022-10-10.md",
-    "KnowledgeBase/Daily Notes/2022-10-12.md",
-    "KnowledgeBase/Learn/Obsidian.md"
+    "KnowledgeBase/Daily Notes/2022-10-12.md"
   ]
 }
