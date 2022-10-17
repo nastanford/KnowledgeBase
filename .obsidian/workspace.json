@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b790a16bf6d49f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,8 +126,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "26f762b051ade1de",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-10-17.md",
     "KnowledgeBase/Daily Notes/2022-10-16.md",
     "KnowledgeBase/Daily Notes/2022-10-15.md",
     "KnowledgeBase/Daily Notes/2022-10-13.md",
@@ -129,7 +137,6 @@
     "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
-    "KnowledgeBase/Daily Notes/2022-10-10.md",
-    "KnowledgeBase/Daily Notes/2022-10-12.md"
+    "KnowledgeBase/Daily Notes/2022-10-10.md"
   ]
 }
