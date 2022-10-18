@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a875f294c5e6524c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Thoughts.md",
                 "mode": "source",
                 "backlinks": true,
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Thoughts.md",
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Thoughts.md",
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Thoughts.md"
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md"
               }
             }
           },
@@ -163,15 +176,15 @@
   },
   "active": "7327cf272759f471",
   "lastOpenFiles": [
-    "Weekly Status/2022-10-10 - 2022-10-14.md",
     "Weekly Status/2022-10-17 - 2022-10-21.md",
+    "Notes/Thoughts.md",
+    "Weekly Status/2022-10-10 - 2022-10-14.md",
+    "Weekly Status/2022-10-03 - 2022-10-07.md",
     "Meeting Notes/OEM/2022-10-13.md",
     "Projects/OEM - COOP Tools.md",
     "Daily Notes/2022-10-18.md",
     "Daily Notes/2022-10-17.md",
     "Daily Notes/2022-10-16.md",
-    "Daily Notes/2022-10-15.md",
-    "Notes/Thoughts.md",
-    "Daily Notes/2022-10-14.md"
+    "Daily Notes/2022-10-15.md"
   ]
 }
