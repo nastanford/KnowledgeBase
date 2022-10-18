@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/OEM/2022-10-13.md",
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/OEM/2022-10-13.md",
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/OEM/2022-10-13.md",
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/OEM/2022-10-13.md"
+                "file": "Weekly Status/2022-10-10 - 2022-10-14.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "7327cf272759f471",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-18.md",
     "Meeting Notes/OEM/2022-10-13.md",
+    "Notes/Thoughts.md",
+    "Daily Notes/2022-10-18.md",
     "Daily Notes/2022-10-16.md",
     "Daily Notes/2022-10-17.md",
     "Daily Notes/2022-10-14.md",
     "Daily Notes/2022-10-13.md",
     "Projects/OEM - COOP Tools.md",
     "Projects/Campus - my UMB Portal.md",
-    "Projects/Law - Academic.md",
-    "Projects/Finance - Department Deposit Form.md"
+    "Projects/Law - Academic.md"
   ]
 }
