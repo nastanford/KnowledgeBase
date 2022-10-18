@@ -4,9 +4,7 @@ type: programming
 language: CFML
 ---
 
-# ColdFusion Object
-#coldfusion #object
-
+#coldfusion #cfc #object #oop
 ## Example
 
 ```php

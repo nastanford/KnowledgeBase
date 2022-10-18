@@ -4,7 +4,6 @@ type: programming
 language: CFML
 ---
 
-# ColdFusion CFC Object
 #coldfusion #cfc #object #oop
 
 ## Example Object CFC 

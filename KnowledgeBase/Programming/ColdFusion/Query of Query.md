@@ -4,7 +4,6 @@ type: programming
 language: CFML
 ---
 
-# ColdFusion Query of Query
 #coldfusion 
 
 ```php

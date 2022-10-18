@@ -4,7 +4,6 @@ type: programming
 language: CFML
 ---
 
-# ColdFusion Script - QueryExecute
 #coldfusion 
 
 Example of query seen online.
