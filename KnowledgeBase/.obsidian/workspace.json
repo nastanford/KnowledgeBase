@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+                "file": "Daily Notes/2022-10-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+                "file": "Daily Notes/2022-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
+                "file": "Daily Notes/2022-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md"
+                "file": "Daily Notes/2022-10-18.md"
               }
             }
           },
@@ -150,6 +150,7 @@
   },
   "active": "6bb11bb60bff05d3",
   "lastOpenFiles": [
+    "Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
     "Daily Notes/2022-10-14.md",
     "Projects/OEM - COOP Tools.md",
     "Projects/Campus - my UMB Portal.md",
@@ -158,7 +159,6 @@
     "Projects/Campus - Push to Production.md",
     "Notes/AVD - Software Install List.md",
     "Notes/Untitled.md",
-    "Weekly Status/Plans.md",
-    "Weekly Status/2022-10-10 - 2022-10-14.md"
+    "Weekly Status/Plans.md"
   ]
 }
