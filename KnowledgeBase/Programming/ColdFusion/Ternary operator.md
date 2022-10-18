@@ -5,8 +5,8 @@
 #((variable eq 'y') ? 'Yes' : 'No')#
 ```
 
+##### Syntax: ((condition) ? trueStatement : falseStatement)
 ```php
-<!--- Syntax: ((condition) ? trueStatement : falseStatement) --->
 <cfset width = ((ThumbnailWidth EQ 0) ? 75 : ThumbnailWidth) />
 ```
 
@@ -15,7 +15,8 @@
 #IIf((variable eq 'y') ,'Yes','No')#
 ```
 
+#### Syntax: IIf(condition, trueStatement, falseStatement)
 ```php
-<!--- Syntax: IIf(condition, trueStatement, falseStatement) --->
 <cfset width = IIf((ThumbnailWidth EQ 0), 75, ThumbnailWidth) />
 ```
+
