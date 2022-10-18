@@ -19,4 +19,3 @@
 ```php
 <cfset width = IIf((ThumbnailWidth EQ 0), 75, ThumbnailWidth) />
 ```
-
