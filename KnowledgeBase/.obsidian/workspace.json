@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ColdFusion/Ternary operator.md",
+                "file": "Daily Notes/2022-10-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/ColdFusion/Ternary operator.md",
+                "file": "Daily Notes/2022-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/ColdFusion/Ternary operator.md",
+                "file": "Daily Notes/2022-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ColdFusion/Ternary operator.md"
+                "file": "Daily Notes/2022-10-19.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "b4e4046147a79b63",
   "lastOpenFiles": [
+    "Programming/ColdFusion/Ternary operator.md",
     "Programming/ColdFusion/ColdFusion.md",
     "Programming/ColdFusion/Object.md",
     "Programming/ColdFusion/CFC Object.md",
     "Programming/ColdFusion/OOP.md",
     "Programming/ColdFusion/Query of Query.md",
     "Programming/ColdFusion/Script - QueryExecute.md",
-    "Programming/ColdFusion/Ternary operator.md",
     "Programming/ColdFusion/CFC Generator.md",
     "Programming/Programming.md",
     "Projects/OEM - COOP Tools.md"
