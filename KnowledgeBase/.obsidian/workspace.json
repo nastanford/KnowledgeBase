@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-19.md",
+                "file": "Templates/DailyNote.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-19.md",
+                "file": "Templates/DailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-19.md",
+                "file": "Templates/DailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-19.md"
+                "file": "Templates/DailyNote.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "37ec1fab3a929b89",
   "lastOpenFiles": [
-    "Knowledgebase.md",
+    "Daily Notes/2022-10-18.md",
     "Daily Notes/2022-10-19.md",
+    "Daily Notes/2022-10-16.md",
+    "Daily Notes/2022-10-17.md",
+    "Templates/DailyNote.md",
+    "Knowledgebase.md",
     "Programming/ColdFusion/Ternary operator.md",
     "Programming/ColdFusion/ColdFusion.md",
     "Programming/ColdFusion/Object.md",
-    "Programming/ColdFusion/CFC Object.md",
-    "Programming/ColdFusion/OOP.md",
-    "Programming/ColdFusion/Query of Query.md",
-    "Programming/ColdFusion/Script - QueryExecute.md",
-    "Programming/ColdFusion/CFC Generator.md"
+    "Programming/ColdFusion/CFC Object.md"
   ]
 }
