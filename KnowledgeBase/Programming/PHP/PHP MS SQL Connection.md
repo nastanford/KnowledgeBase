@@ -1,4 +1,3 @@
-# PHP MS SQL Connection
 #php 
 
 ## Config File Example MSSQL

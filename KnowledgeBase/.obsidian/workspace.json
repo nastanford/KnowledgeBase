@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc2dcb215875e34",
+        "id": "4b7107911ac73e56",
         "type": "tabs",
         "children": [
           {
-            "id": "37ec1fab3a929b89",
+            "id": "28bd9fbbcb67eaea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fe88a62da65dabb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/PHP Hash Password.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ternary",
+                "query": "hash password",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-19.md",
+                "file": "Daily Notes/PHP Hash Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-19.md",
+                "file": "Daily Notes/PHP Hash Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-19.md"
+                "file": "Daily Notes/PHP Hash Password.md"
               }
             }
           },
@@ -148,8 +162,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "37ec1fab3a929b89",
+  "active": "1fe88a62da65dabb",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-19.md",
+    "Programming/PHP/PHP MS SQL Connection.md",
     "Daily Notes/2022-10-10.md",
     "Daily Notes/2022-10-11.md",
     "Daily Notes/2022-10-12.md",
@@ -157,8 +173,6 @@
     "Daily Notes/2022-10-14.md",
     "Daily Notes/2022-10-15.md",
     "Daily Notes/2022-10-16.md",
-    "Daily Notes/2022-10-17.md",
-    "Daily Notes/2022-10-18.md",
-    "Templates/DailyNote.md"
+    "Daily Notes/2022-10-17.md"
   ]
 }
