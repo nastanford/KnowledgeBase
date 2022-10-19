@@ -2,6 +2,7 @@
 
 >PHP provides a built-in password hashing library that uses the bcrypt algorithm, currently considered the best algorithm for password hashing.
 
+###### https://phpbestpractices.org/
 ```php
 <?php
 // Hash the password.  $hashedPassword will be a 60-character string.
