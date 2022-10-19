@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "b4e4046147a79b63",
+            "id": "37ec1fab3a929b89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,8 +157,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b4e4046147a79b63",
+  "active": "37ec1fab3a929b89",
   "lastOpenFiles": [
+    "Knowledgebase.md",
+    "Daily Notes/2022-10-19.md",
     "Programming/ColdFusion/Ternary operator.md",
     "Programming/ColdFusion/ColdFusion.md",
     "Programming/ColdFusion/Object.md",
@@ -166,8 +168,6 @@
     "Programming/ColdFusion/OOP.md",
     "Programming/ColdFusion/Query of Query.md",
     "Programming/ColdFusion/Script - QueryExecute.md",
-    "Programming/ColdFusion/CFC Generator.md",
-    "Programming/Programming.md",
-    "Projects/OEM - COOP Tools.md"
+    "Programming/ColdFusion/CFC Generator.md"
   ]
 }
