@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/PHP Hash Password.md",
+                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hash password",
+                "query": "card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/PHP Hash Password.md",
+                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/PHP Hash Password.md",
+                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/PHP Hash Password.md"
+                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md"
               }
             }
           },
@@ -164,6 +165,8 @@
   },
   "active": "1fe88a62da65dabb",
   "lastOpenFiles": [
+    "CSS Frameworks/Bootstrap/Bootstrap.md",
+    "Daily Notes/PHP Hash Password.md",
     "Daily Notes/2022-10-19.md",
     "Programming/PHP/PHP MS SQL Connection.md",
     "Daily Notes/2022-10-10.md",
@@ -171,8 +174,6 @@
     "Daily Notes/2022-10-12.md",
     "Daily Notes/2022-10-13.md",
     "Daily Notes/2022-10-14.md",
-    "Daily Notes/2022-10-15.md",
-    "Daily Notes/2022-10-16.md",
-    "Daily Notes/2022-10-17.md"
+    "Daily Notes/2022-10-15.md"
   ]
 }
