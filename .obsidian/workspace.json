@@ -4,28 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2c590cb8a3a835f9",
+        "id": "9b953a569cec077e",
         "type": "tabs",
         "children": [
           {
-            "id": "26f762b051ade1de",
+            "id": "d95a6cf20939c827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-20.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8b790a16bf6d49f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-20.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +103,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-20.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e18136f61b5c74fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md"
               }
             }
           }
@@ -127,17 +129,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "26f762b051ade1de",
+  "active": "d95a6cf20939c827",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2022-10-17.md",
+    "KnowledgeBase/Meeting Notes/OEM/2022-10-13.md",
+    "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
     "KnowledgeBase/Daily Notes/2022-10-16.md",
+    "KnowledgeBase/Daily Notes/2022-10-20.md",
+    "KnowledgeBase/Daily Notes/2022-10-17.md",
     "KnowledgeBase/Daily Notes/2022-10-15.md",
     "KnowledgeBase/Daily Notes/2022-10-13.md",
     "KnowledgeBase/Daily Notes/2022-10-14.md",
     "KnowledgeBase/Databases/MySql/MySql.md",
-    "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md",
-    "KnowledgeBase/Projects/Campus - Push to Production.md",
-    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
-    "KnowledgeBase/Daily Notes/2022-10-10.md"
+    "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md"
   ]
 }
