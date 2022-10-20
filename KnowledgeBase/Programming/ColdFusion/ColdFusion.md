@@ -4,6 +4,7 @@ type: programming
 ---
 
 # ColdFusion
+* [[CFC Object]]
 * [[CFScript Query]]
 * *[[OOP]]
 * *[[CFScript Query]]

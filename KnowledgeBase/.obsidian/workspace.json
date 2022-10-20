@@ -11,30 +11,11 @@
             "id": "1b26dc7b2b2c58cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes/OEM/2022-10-13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a39f03be1a26c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-10-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#oem",
+                "query": "unti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2022-10-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7a39f03be1a26c42",
+  "active": "60e87a129bbbfbac",
   "lastOpenFiles": [
+    "Tools/Untitled.md",
     "Meeting Notes/OEM/2022-10-13.md",
+    "Programming/ColdFusion/ColdFusion.md",
+    "Programming/ColdFusion/CFC Object.md",
     "Meeting Notes/Law/2022-10-20.md",
+    "Daily Notes/2022-10-20.md",
     "Tools/Untitled 1.md",
     "Tools/VSCode.md",
-    "Tools/Untitled.md",
-    "Daily Notes/2022-10-20.md",
     "Daily Notes/2022-10-19.md",
-    "CSS Frameworks/Bootstrap/Bootstrap Card.md",
-    "CSS Frameworks/Bootstrap/Bootstrap.md",
-    "Programming/PHP/PHP Hash Password.md"
+    "CSS Frameworks/Bootstrap/Bootstrap Card.md"
   ]
 }

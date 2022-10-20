@@ -3,7 +3,6 @@ creation date: <% tp.file.creation_date() %>
 type: programming
 language: CFML
 ---
-
 #coldfusion #cfc #object #oop
 
 ## Example Object CFC 
