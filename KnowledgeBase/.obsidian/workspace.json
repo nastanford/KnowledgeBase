@@ -11,8 +11,13 @@
             "id": "1b26dc7b2b2c58cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Thoughts.md"
+              }
             }
           },
           {
@@ -139,15 +148,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "60e87a129bbbfbac",
+  "active": "1b26dc7b2b2c58cb",
   "lastOpenFiles": [
+    "Tools/Untitled 1.md",
     "Tools/Untitled.md",
     "Meeting Notes/OEM/2022-10-13.md",
     "Programming/ColdFusion/ColdFusion.md",
     "Programming/ColdFusion/CFC Object.md",
     "Meeting Notes/Law/2022-10-20.md",
     "Daily Notes/2022-10-20.md",
-    "Tools/Untitled 1.md",
     "Tools/VSCode.md",
     "Daily Notes/2022-10-19.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md"
