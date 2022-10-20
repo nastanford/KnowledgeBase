@@ -25,9 +25,9 @@
 * Classic ASP Syntaxes and Snippets
 * Codalyze - Code Complexity Report Generator
 * Code Spell Checker
-* coldfusion
-* Coldfusion
-* Coldfusion commentation
+* coldfusion - IIYA Verbitskiy
+* Coldfusion - SketchPunk
+* Coldfusion commentation - Not working
 * Color Hightlight
 * Comment Divider
 * Copilot Theme
