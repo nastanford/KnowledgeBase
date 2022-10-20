@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Law - Academic.md",
+                "file": "Meeting Notes/Law/2022-10-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b6d2668bf373f196",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Law - Academic.md",
+                "file": "Meeting Notes/Law/2022-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Law - Academic.md",
+                "file": "Meeting Notes/Law/2022-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Law - Academic.md"
+                "file": "Meeting Notes/Law/2022-10-20.md"
               }
             }
           },
@@ -151,8 +150,8 @@
   },
   "active": "1b26dc7b2b2c58cb",
   "lastOpenFiles": [
-    "Projects/OEM - COOP Tools.md",
     "Projects/Law - Academic.md",
+    "Projects/OEM - COOP Tools.md",
     "Notes/Thoughts.md",
     "Tools/Untitled 1.md",
     "Tools/Untitled.md",
