@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-17.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bd54e64ea51908bd",
+  "active": "26f762b051ade1de",
   "lastOpenFiles": [
     "KnowledgeBase/Daily Notes/2022-10-17.md",
     "KnowledgeBase/Daily Notes/2022-10-16.md",
