@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md",
+                "file": "Daily Notes/2022-10-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md",
+                "file": "Daily Notes/2022-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md",
+                "file": "Daily Notes/2022-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Frameworks/Bootstrap/Bootstrap Card.md"
+                "file": "Daily Notes/2022-10-20.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "1fe88a62da65dabb",
   "lastOpenFiles": [
+    "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "CSS Frameworks/Bootstrap/Bootstrap.md",
     "Daily Notes/PHP Hash Password.md",
     "Daily Notes/2022-10-19.md",
@@ -173,7 +174,6 @@
     "Daily Notes/2022-10-11.md",
     "Daily Notes/2022-10-12.md",
     "Daily Notes/2022-10-13.md",
-    "Daily Notes/2022-10-14.md",
-    "Daily Notes/2022-10-15.md"
+    "Daily Notes/2022-10-14.md"
   ]
 }
