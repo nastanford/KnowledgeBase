@@ -80,12 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b6d2668bf373f196",
@@ -163,7 +162,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1fe88a62da65dabb",
+  "active": "60e87a129bbbfbac",
   "lastOpenFiles": [
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "CSS Frameworks/Bootstrap/Bootstrap.md",
