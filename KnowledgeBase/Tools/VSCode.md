@@ -29,6 +29,25 @@
 * Coldfusion
 * Coldfusion commentation
 * Color Hightlight
+* Comment Divider
+* Copilot Theme
+* D3 Skeletons
+* D3.js code snippets
+* Deploy(Reloaded) - test
+* Draw.io Integration
+* Easy icon theme
+* EditorConfig for VS Code
+* Emmet Keybindings
+* Emmet Live
+* Format HTML in PHP
+* Getting and Setter Generator
+* Git History
+* GitHub Actions
+* GitHub Copilot
+* GitHub Copilot Labs
+* GitHub Markdown Preview
+* GitHub Pull Requests and Issues
+* GitLens - Git suppercharged
 * 
 
 
