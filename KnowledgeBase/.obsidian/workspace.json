@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-20.md",
+                "file": "Tools/VSCode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-20.md",
+                "file": "Tools/VSCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-20.md",
+                "file": "Tools/VSCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-20.md"
+                "file": "Tools/VSCode.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "28bd9fbbcb67eaea",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-20.md",
     "Meeting Notes/OEM/2022-10-13.md",
     "Tools/VSCode.md",
-    "Daily Notes/2022-10-20.md",
     "Daily Notes/2022-10-19.md",
     "CSS Frameworks/Bootstrap/Bootstrap Card.md",
     "CSS Frameworks/Bootstrap/Bootstrap.md",
