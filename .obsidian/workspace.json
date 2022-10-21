@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md"
+                "file": "KnowledgeBase/Daily Notes/2022-10-21.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "d95a6cf20939c827",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-13.md",
     "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
     "KnowledgeBase/Daily Notes/2022-10-16.md",
@@ -139,7 +140,6 @@
     "KnowledgeBase/Daily Notes/2022-10-15.md",
     "KnowledgeBase/Daily Notes/2022-10-13.md",
     "KnowledgeBase/Daily Notes/2022-10-14.md",
-    "KnowledgeBase/Databases/MySql/MySql.md",
-    "KnowledgeBase/Meeting Notes/OEM/Meeting OEM - COOP Tools - 2022-10-13.md"
+    "KnowledgeBase/Databases/MySql/MySql.md"
   ]
 }
