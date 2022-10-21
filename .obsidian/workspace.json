@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25828fc668ff4019",
+        "id": "53e52eeb715ec992",
         "type": "tabs",
         "children": [
           {
-            "id": "a12be64144c5c414",
+            "id": "bf8d44b8b881a22e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Templates/DailyNote.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Templates/DailyNote.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Templates/DailyNote.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Templates/DailyNote.md"
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a12be64144c5c414",
+  "active": "bf8d44b8b881a22e",
   "lastOpenFiles": [
     "KnowledgeBase/Daily Notes/2022-10-21.md",
+    "KnowledgeBase/Daily Notes/2022-10-20.md",
     "KnowledgeBase/Templates/DailyNote.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-13.md",
     "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
     "KnowledgeBase/Daily Notes/2022-10-16.md",
-    "KnowledgeBase/Daily Notes/2022-10-20.md",
     "KnowledgeBase/Daily Notes/2022-10-17.md",
     "KnowledgeBase/Daily Notes/2022-10-15.md",
     "KnowledgeBase/Daily Notes/2022-10-13.md"

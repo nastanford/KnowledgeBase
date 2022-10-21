@@ -1,10 +1,10 @@
 ## Action Items
+- [ ] IT Announcements - add a widget and still get original data
+- [ ] What's new widget if empty hide whole widget.
 - [x] Create Alert Manual
 - [ ] Create Alert Admin Setting
 - [ ] Pull all external CSS and JS links in house to be stored on the server
-- [ ] IT Announcements - add a widget and still get original data
 - [ ] Move the CSS to Cloud and any other linked files
-- [ ] What's new widget if empty hide whole widget.
 
 
 *Manual maintenance message Make Admin for this in the future*
