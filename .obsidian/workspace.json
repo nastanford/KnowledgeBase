@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5175f393779d360a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
+                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
+                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md"
+                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md"
               }
             }
           }
@@ -129,17 +143,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bf8d44b8b881a22e",
+  "active": "5175f393779d360a",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/OEM - COOP Tools.md",
+    "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
+    "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-13.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Daily Notes/2022-10-21.md",
     "KnowledgeBase/Daily Notes/2022-10-20.md",
     "KnowledgeBase/Templates/DailyNote.md",
-    "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
-    "KnowledgeBase/Daily Notes/2022-10-16.md",
-    "KnowledgeBase/Daily Notes/2022-10-17.md"
+    "KnowledgeBase/Daily Notes/2022-10-16.md"
   ]
 }
