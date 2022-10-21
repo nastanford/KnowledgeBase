@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md"
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "5175f393779d360a",
   "lastOpenFiles": [
-    "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
     "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
+    "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
     "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-13.md",
