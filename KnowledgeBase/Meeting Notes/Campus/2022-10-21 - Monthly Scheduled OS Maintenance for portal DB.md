@@ -1,6 +1,8 @@
 ## Goals / agenda 
-1. 
+* What to do future outages? 
+* Database Upgrades - Outages
 
 ## Meeting notes
-* note
+* My UMB Portal - 24/7
+* How much notice to give for a 24/7 outage 
 * 
