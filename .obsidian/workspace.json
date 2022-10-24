@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-23.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-23.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-23.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-23.md"
+                "file": "KnowledgeBase/Daily Notes/2022-10-24.md"
               }
             }
           }
@@ -145,6 +145,8 @@
   },
   "active": "5175f393779d360a",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-10-24.md",
+    "KnowledgeBase/Daily Notes/2022-10-23.md",
     "KnowledgeBase/Daily Notes/2022-10-22.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
@@ -152,8 +154,6 @@
     "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-13.md",
-    "KnowledgeBase/Daily Notes/2022-10-21.md",
-    "KnowledgeBase/Daily Notes/2022-10-20.md",
-    "KnowledgeBase/Templates/DailyNote.md"
+    "KnowledgeBase/Daily Notes/2022-10-21.md"
   ]
 }
