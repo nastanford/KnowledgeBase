@@ -5,6 +5,8 @@
 - [ ] Move the CSS to Cloud and any other linked files
 - [x] Create Alert Manual
 - [ ] Create Alert Admin Setting
+- [x]  new IT Announcements
+- [x] Fixed Bug
 
 *Manual maintenance message Make Admin for this in the future*
 ```php
@@ -24,4 +26,6 @@
     </div>
   </cfif>
 ```
- 
+
+## Git Rollback Example
+git reset --hard 77f9f21340b3de5621e47d27b108e91209f519fd / git push origin branch --force
