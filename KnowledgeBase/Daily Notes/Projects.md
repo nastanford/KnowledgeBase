@@ -1,0 +1,12 @@
+- PHP MVC Framework - build your own framework
+- Data Import/Export - Import Excel - Export Excel complex multiple tabs
+- PDF Generation - Complex PDF, Resume Generator, Invoices
+- Shopping Cart - Mini Shopping Cart - unauthorized in cookies login move to database.
+- Email Sending - Send an Email and attach files
+- CRUD with sorting, filtering, pagination 
+- QR Code Generation - Small App - url to something
+- Working with CURL - 3rd party apis - check for other node api's
+- Customer Registration - input Customer Info etc. Credit Card Information 
+- Event Management - Calendar where others can add events. dates, timezones
+- Create Composer a Package - Make available on GitHub.  Make a good Readme.MD
+

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d9bbac075b04bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md"
+                "file": "KnowledgeBase/Daily Notes/Projects.md"
               }
             }
           }
@@ -129,13 +144,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bf8d44b8b881a22e",
+  "active": "87d9bbac075b04bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-10-24.md",
+    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Projects/Law - Academic.md",
     "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
-    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
-    "KnowledgeBase/Daily Notes/2022-10-24.md",
     "KnowledgeBase/Daily Notes/2022-10-23.md",
     "KnowledgeBase/Daily Notes/2022-10-22.md",
     "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
