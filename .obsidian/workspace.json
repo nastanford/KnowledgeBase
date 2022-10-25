@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/Projects.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/Projects.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/Projects.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/Projects.md"
+                "file": "KnowledgeBase/Daily Notes/2022-10-25.md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "active": "87d9bbac075b04bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/Projects.md",
     "KnowledgeBase/Daily Notes/2022-10-24.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Projects/Law - Academic.md",
@@ -154,7 +155,6 @@
     "KnowledgeBase/Daily Notes/2022-10-23.md",
     "KnowledgeBase/Daily Notes/2022-10-22.md",
     "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
-    "KnowledgeBase/Meeting Notes/Law/2022-10-20.md",
-    "KnowledgeBase/Projects/OEM - COOP Tools.md"
+    "KnowledgeBase/Meeting Notes/Law/2022-10-20.md"
   ]
 }
