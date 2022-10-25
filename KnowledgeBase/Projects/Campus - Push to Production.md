@@ -1,5 +1,17 @@
 #github #actions 
 
+# Git Hooks
+
+### Trying
+- git bash 
+- 
+
+
+
+
+
+# Goals
+
 ## Push from Cloud Dev to Cloud Prod  (Automatic Push to Prod)
 1. Make sure Self Hosted Runner is running on Cloud Development Server
 2. Make sure Test Actions is up to date on Cloud Development Server and Cloud Production Server 

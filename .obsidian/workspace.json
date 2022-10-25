@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-24.md",
+                "file": "KnowledgeBase/Eisenhower Matrix ✅.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-25.md",
+                "file": "KnowledgeBase/Projects/Campus - Push to Production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-25.md",
+                "file": "KnowledgeBase/Projects/Campus - Push to Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-25.md",
+                "file": "KnowledgeBase/Projects/Campus - Push to Production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-25.md"
+                "file": "KnowledgeBase/Projects/Campus - Push to Production.md"
               }
             }
           }
@@ -146,15 +145,15 @@
   },
   "active": "87d9bbac075b04bd",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/Projects.md",
+    "KnowledgeBase/Templates/DailyNote.md",
+    "KnowledgeBase/Eisenhower Matrix ✅.md",
+    "KnowledgeBase/Learn/Obsidian.md",
+    "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
+    "KnowledgeBase/Learn/# Eisenhower Matrix ✅.md",
+    "KnowledgeBase/Daily Notes/2022-10-25.md",
     "KnowledgeBase/Daily Notes/2022-10-24.md",
-    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
-    "KnowledgeBase/Projects/Law - Academic.md",
-    "KnowledgeBase/Meeting Notes/OEM/2022-10-21.md",
-    "KnowledgeBase/Projects/Campus - Push to Production.md",
-    "KnowledgeBase/Daily Notes/2022-10-23.md",
+    "KnowledgeBase/Daily Notes/2022-10-20.md",
     "KnowledgeBase/Daily Notes/2022-10-22.md",
-    "KnowledgeBase/Meeting Notes/Campus/2022-10-21 - Monthly Scheduled OS Maintenance for portal DB.md",
-    "KnowledgeBase/Meeting Notes/Law/2022-10-20.md"
+    "KnowledgeBase/Daily Notes/2022-10-23.md"
   ]
 }
