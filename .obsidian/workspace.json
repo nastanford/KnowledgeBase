@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-26.md",
+                "file": "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "566b1d0ba1602563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-26.md",
+                "file": "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-26.md",
+                "file": "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-26.md"
+                "file": "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md"
               }
             }
           }
@@ -143,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "87d9bbac075b04bd",
+  "active": "566b1d0ba1602563",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
+    "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
+    "KnowledgeBase/Eisenhower Matrix ✅.md",
+    "KnowledgeBase/Daily Notes/2022-10-26.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
     "KnowledgeBase/Templates/DailyNote.md",
-    "KnowledgeBase/Eisenhower Matrix ✅.md",
     "KnowledgeBase/Learn/Obsidian.md",
     "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
     "KnowledgeBase/Learn/# Eisenhower Matrix ✅.md",
-    "KnowledgeBase/Daily Notes/2022-10-25.md",
-    "KnowledgeBase/Daily Notes/2022-10-24.md",
-    "KnowledgeBase/Daily Notes/2022-10-20.md",
-    "KnowledgeBase/Daily Notes/2022-10-22.md"
+    "KnowledgeBase/Daily Notes/2022-10-25.md"
   ]
 }
