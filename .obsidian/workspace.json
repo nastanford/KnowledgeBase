@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "87d9bbac075b04bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "566b1d0ba1602563",
             "type": "leaf",
             "state": {
@@ -58,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87d9bbac075b04bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/Law - Academic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fetch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-27.md",
+                "file": "KnowledgeBase/Projects/Law - Academic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-27.md",
+                "file": "KnowledgeBase/Projects/Law - Academic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-27.md"
+                "file": "KnowledgeBase/Projects/Law - Academic.md"
               }
             }
           }
@@ -167,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4acab2237c8c37bf",
+  "active": "87d9bbac075b04bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
+    "KnowledgeBase/Daily Notes/2022-10-27.md",
     "KnowledgeBase/✅ Eisenhower Matrix.md",
     "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
-    "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
     "KnowledgeBase/Daily Notes/2022-10-26.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
     "KnowledgeBase/Templates/DailyNote.md",
     "KnowledgeBase/Learn/Obsidian.md",
     "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
-    "KnowledgeBase/Learn/# Eisenhower Matrix ✅.md",
-    "KnowledgeBase/Daily Notes/2022-10-25.md"
+    "KnowledgeBase/Learn/# Eisenhower Matrix ✅.md"
   ]
 }
