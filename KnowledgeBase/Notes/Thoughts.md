@@ -1,12 +1,18 @@
-1 - 20% - COOP - Tom - GitHub
-2 - 20% - COOP - Tom - GitHub
-3 - 20% -  Law
-4 - 20% -  Law
-5 - 20% -  Misc, COOP, Law, GitHub
+Monday       - 20% - Tom - GitHub
+Tuesday       - 20% - COOP - Tom - GitHub
+Wednesday  - 20% -  Law
+Thursday      - 20% -  Law
+Friday           - 20% -  Misc., COOP, Law, GitHub
 
-Finance - Deposit Form - (Dong)
-Student app - ?
+### Current Projects
+- Git Push Production
+- Law Academic
+- COOP Tool
+- Campus - UMB Portal 
 
+### New Projects
+* Finance - Deposit Form - (Dong)
+* Student app - ?
 
 10% - Portal 
 30% - Law (Paul 20%) tables - data
