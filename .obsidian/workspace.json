@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/Law - Academic.md",
+                "file": "KnowledgeBase/Notes/Thoughts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/Law - Academic.md",
+                "file": "KnowledgeBase/Notes/Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/Law - Academic.md",
+                "file": "KnowledgeBase/Notes/Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/Law - Academic.md"
+                "file": "KnowledgeBase/Notes/Thoughts.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "87d9bbac075b04bd",
   "lastOpenFiles": [
+    "KnowledgeBase/✅ Eisenhower Matrix.md",
+    "KnowledgeBase/Projects/Law - Academic.md",
     "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
     "KnowledgeBase/Daily Notes/2022-10-27.md",
-    "KnowledgeBase/✅ Eisenhower Matrix.md",
     "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
     "KnowledgeBase/Daily Notes/2022-10-26.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
     "KnowledgeBase/Templates/DailyNote.md",
     "KnowledgeBase/Learn/Obsidian.md",
-    "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
-    "KnowledgeBase/Learn/# Eisenhower Matrix ✅.md"
+    "KnowledgeBase/Templates/Eishenhower Matrix Template.md"
   ]
 }
