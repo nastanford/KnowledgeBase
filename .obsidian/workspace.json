@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f6f22f9a112b0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-10-29.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-28.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-28.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-28.md"
+                "file": "KnowledgeBase/Daily Notes/2022-10-29.md"
               }
             }
           }
@@ -166,10 +179,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "87d9bbac075b04bd",
+  "active": "4f6f22f9a112b0bf",
   "lastOpenFiles": [
     "KnowledgeBase/Notes/Thoughts.md",
     "KnowledgeBase/✅ Eisenhower Matrix.md",
