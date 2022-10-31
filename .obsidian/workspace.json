@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-30.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-30.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-30.md",
+                "file": "KnowledgeBase/Daily Notes/2022-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-30.md"
+                "file": "KnowledgeBase/Daily Notes/2022-10-31.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "4f6f22f9a112b0bf",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-10-30.md",
     "KnowledgeBase/Daily Notes/2022-10-29.md",
     "KnowledgeBase/Notes/Thoughts.md",
     "KnowledgeBase/✅ Eisenhower Matrix.md",
@@ -189,7 +190,6 @@
     "KnowledgeBase/Daily Notes/2022-10-27.md",
     "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
     "KnowledgeBase/Daily Notes/2022-10-26.md",
-    "KnowledgeBase/Projects/Campus - Push to Production.md",
-    "KnowledgeBase/Templates/DailyNote.md"
+    "KnowledgeBase/Projects/Campus - Push to Production.md"
   ]
 }
