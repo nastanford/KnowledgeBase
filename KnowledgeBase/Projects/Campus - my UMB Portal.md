@@ -1,5 +1,13 @@
 ## Action Items
 - [x] IT Announcements - add a widget and still get original data
+- [ ] Display of Links
+	- [x] Title
+	- [x] URL
+	- [ ] Start Date and End Date
+	- [ ] Alternate Link with Start and End Date/Time
+	- [ ] Is Active
+	- [ ] Security Type
+	- [ ] Keywords for Search?
 - [ ] What's new widget if empty hide whole widget.
 - [ ] Pull all external CSS and JS links in house to be stored on the server
 - [ ] Move the CSS to Cloud and any other linked files
