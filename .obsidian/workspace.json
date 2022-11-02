@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-02.md",
+                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-02.md",
+                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-02.md",
+                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-02.md"
+                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   },
   "active": "77dc7527ec64d374",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-02.md",
     "KnowledgeBase/Tools/Tools.md",
     "KnowledgeBase/Programming/Lit/Lit.md",
     "KnowledgeBase/Databases/Databases.md",
@@ -202,7 +203,6 @@
     "KnowledgeBase/Daily Notes/2022-11-01.md",
     "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
     "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
-    "KnowledgeBase/Notes/Thoughts.md",
-    "KnowledgeBase/Daily Notes/2022-10-31.md"
+    "KnowledgeBase/Notes/Thoughts.md"
   ]
 }
