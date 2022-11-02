@@ -3,20 +3,20 @@
 - [ ] Display of Links
 	- [x] Title
 	- [x] URL
-	- [ ] Start Date and End Date
-	- [ ] Alternate Link with Start and End Date/Time
-	- [ ] Is Active
-	- [ ] Security Type
-	- [ ] Keywords for Search?
+	- [x] Start Date and End Date
+	- [x] Alternate Link with Start and End Date/Time
+	- [x] Is Active
+	- [x] Security Type
+	- [x] Keywords for Search?
 - [ ] What's new widget if empty hide whole widget.
 - [ ] Pull all external CSS and JS links in house to be stored on the server
 - [ ] Move the CSS to Cloud and any other linked files
 - [x] Create Alert Manual
-- [ ] Create Alert Admin Setting
+- [x] Create Alert Admin Setting (manual for now as a new plan is being worked on for this.)
 - [x]  new IT Announcements
 - [x] Fixed Bug
 
-*Manual maintenance message Make Admin for this in the future*
+*Manual maintenance message Make Admin for this in the future* (This is going to go away.)
 ```php
   <!--- TODO: Manual maintenance message Make Admin for this in the future --->
   <div>
