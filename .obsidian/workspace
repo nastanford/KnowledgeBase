@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
+            "file": "KnowledgeBase/Daily Notes/2022-11-03.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +95,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-10-12.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f328d33bf9a3bdf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-03.md"
               }
             }
           }
@@ -110,6 +120,7 @@
   },
   "active": "dc96182333673a50",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-10-12.md",
     "KnowledgeBase/Daily Notes/Test Dataview.md",
     "KnowledgeBase/Knowledgebase.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion CFC Generator.md",
@@ -118,7 +129,6 @@
     "KnowledgeBase/Programming/ColdFusion/ColdFusion.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion Script - QueryExecute.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion Query of Query.md",
-    "KnowledgeBase/Programming/ColdFusion/ColdFusion OOP.md",
-    "KnowledgeBase/Programming/ColdFusion/ColdFusion Obect.md"
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion OOP.md"
   ]
 }
