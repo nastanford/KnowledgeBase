@@ -1,5 +1,6 @@
 {
   "cssTheme": "Everblush",
   "translucency": false,
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "accentColor": ""
 }
