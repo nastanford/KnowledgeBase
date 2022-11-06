@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-05.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-05.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-05.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-05.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-06.md"
               }
             }
           }
@@ -128,6 +128,7 @@
   },
   "active": "b2426d42d77f2f67",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-05.md",
     "KnowledgeBase/Resources/Public Api's.md",
     "KnowledgeBase/Daily Notes/2022-11-02.md",
     "KnowledgeBase/Programming/PHP/PHP Async.md",
@@ -136,7 +137,6 @@
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2022-10-28.md",
     "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
-    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
-    "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md"
+    "KnowledgeBase/Projects/Campus - my UMB Portal.md"
   ]
 }
