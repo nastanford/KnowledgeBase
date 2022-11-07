@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-06.md",
+                "file": "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb82f8b14b85e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Meeting Notes/OEM/OEM-2022-11-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-06.md",
+                "file": "KnowledgeBase/Meeting Notes/OEM/OEM-2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-06.md",
+                "file": "KnowledgeBase/Meeting Notes/OEM/OEM-2022-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-06.md"
+                "file": "KnowledgeBase/Meeting Notes/OEM/OEM-2022-11-07.md"
               }
             }
           }
@@ -126,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2426d42d77f2f67",
+  "active": "8fb82f8b14b85e08",
   "lastOpenFiles": [
+    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md",
+    "KnowledgeBase/Daily Notes/2022-11-07.md",
+    "KnowledgeBase/Daily Notes/2022-11-06.md",
     "KnowledgeBase/Daily Notes/2022-11-05.md",
     "KnowledgeBase/Resources/Public Api's.md",
     "KnowledgeBase/Daily Notes/2022-11-02.md",
     "KnowledgeBase/Programming/PHP/PHP Async.md",
     "KnowledgeBase/Projects/Law - T4.md",
     "KnowledgeBase/Projects/Law - Academic.md",
-    "KnowledgeBase/Projects/OEM - COOP Tools.md",
-    "KnowledgeBase/Daily Notes/2022-10-28.md",
-    "KnowledgeBase/Weekly Status/2022-10-24 - 2022-10-28.md",
-    "KnowledgeBase/Projects/Campus - my UMB Portal.md"
+    "KnowledgeBase/Projects/OEM - COOP Tools.md"
   ]
 }
