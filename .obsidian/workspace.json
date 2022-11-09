@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0e822f9ad298494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-09.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-09.md"
               }
             }
           }
@@ -153,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4eca9b8e3bf03b33",
+  "active": "f0e822f9ad298494",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/view_request.cfm.md",
+    "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
     "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md",
     "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
     "KnowledgeBase/Daily Notes/2022-11-08.md",
-    "KnowledgeBase/Weekly Status/2022-10-31 - 2022-11-4.md",
     "KnowledgeBase/Meeting Notes/OEM/OEM-2022-11-07.md",
     "KnowledgeBase/Daily Notes/2022-11-07.md",
     "KnowledgeBase/Daily Notes/2022-11-06.md",
     "KnowledgeBase/Daily Notes/2022-11-05.md",
-    "KnowledgeBase/Resources/Public Api's.md",
-    "KnowledgeBase/Daily Notes/2022-11-02.md"
+    "KnowledgeBase/Resources/Public Api's.md"
   ]
 }
