@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-09.md",
+                "file": "KnowledgeBase/Projects/BO - Budget  Office.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/ORD Satisfaction Survey/ORD Satisfaction Survey.md",
+                "file": "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/Budget Office/Budget  Office.md",
+                "file": "KnowledgeBase/Projects/BO - Budget  Office.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-09.md",
+                "file": "KnowledgeBase/Projects/BO - Budget  Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-09.md",
+                "file": "KnowledgeBase/Projects/BO - Budget  Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-09.md"
+                "file": "KnowledgeBase/Projects/BO - Budget  Office.md"
               }
             }
           }
@@ -207,10 +207,10 @@
   },
   "active": "b32e9a4bd12d100e",
   "lastOpenFiles": [
-    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md",
-    "KnowledgeBase/Projects/ORD Satisfaction Survey/ORD Satisfaction Survey.md",
     "KnowledgeBase/Daily Notes/2022-11-09.md",
-    "KnowledgeBase/Projects/Budget Office/Budget  Office.md",
+    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md",
+    "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
+    "KnowledgeBase/Projects/BO - Budget  Office.md",
     "KnowledgeBase/Learn/Projects.md",
     "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion - JSON Data Return.md",
