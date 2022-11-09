@@ -1,2 +1,0 @@
-- Turn off Debug when returning json data.
-- 
