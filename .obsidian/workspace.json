@@ -11,13 +11,8 @@
             "id": "e1b4d3696578a9fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 361.5
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,15 +119,15 @@
   },
   "active": "e1b4d3696578a9fe",
   "lastOpenFiles": [
+    "KnowledgeBase/Programming/ColdFusion/Ternary operator.md",
+    "KnowledgeBase/Programming/Programming.md",
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion - JSON Data Return.md",
+    "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
     "KnowledgeBase/Templates/DailyNote.md",
     "KnowledgeBase/Daily Notes/2022-11-10.md",
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2022-11-07.md",
     "KnowledgeBase/Daily Notes/2022-11-09.md",
-    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md",
-    "KnowledgeBase/Daily Notes/2022-10-11.md",
-    "KnowledgeBase/Daily Notes/2022-10-24.md",
-    "KnowledgeBase/Daily Notes/2022-10-27.md",
-    "KnowledgeBase/Daily Notes/2022-11-02.md",
-    "KnowledgeBase/Daily Notes/2022-11-08.md"
+    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md"
   ]
 }
