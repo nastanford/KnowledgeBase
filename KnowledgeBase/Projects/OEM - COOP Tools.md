@@ -14,4 +14,5 @@
 
 ## Question
 - Can anyone be in leadership, Contact Roster, or people in the process, that does not have a UMBGUID in the directory?
-- Could these sometimes be a company or external person.
+- Could these sometimes be a company or external person?
+- Tracking Changes - Activity Log - What is the goal with this?
