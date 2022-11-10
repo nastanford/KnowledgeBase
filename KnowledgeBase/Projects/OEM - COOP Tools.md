@@ -13,5 +13,5 @@
 ![[a.jpg]]
 
 ## Question
-- Can anyone be in leadership or Contact Roster that does not have a UMBGUID in the directory?
+- Can anyone be in leadership, Contact Roster, or people in the process, that does not have a UMBGUID in the directory?
 - Could these sometimes be a company or external person.
