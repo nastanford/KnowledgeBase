@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b66d75281109244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/CERSI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-11.md",
+                "file": "KnowledgeBase/Projects/CERSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-11.md",
+                "file": "KnowledgeBase/Projects/CERSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-11.md"
+                "file": "KnowledgeBase/Projects/CERSI.md"
               }
             }
           }
@@ -126,8 +140,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f4c362256d96d31",
+  "active": "1b66d75281109244",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-11.md",
     "KnowledgeBase/Programming/ColdFusion/view_request.cfm.md",
     "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
     "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
@@ -136,7 +151,6 @@
     "KnowledgeBase/Programming/ColdFusion/ColdFusion - JSON Data Return.md",
     "KnowledgeBase/Templates/DailyNote.md",
     "KnowledgeBase/Daily Notes/2022-11-10.md",
-    "KnowledgeBase/Projects/OEM - COOP Tools.md",
-    "KnowledgeBase/Daily Notes/2022-11-07.md"
+    "KnowledgeBase/Projects/OEM - COOP Tools.md"
   ]
 }
