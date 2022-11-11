@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d6caa1b3c4e4f8",
+        "id": "121d2204ef41a7e6",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b4d3696578a9fe",
+            "id": "7f4c362256d96d31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-11.md"
+              }
             }
           }
         ]
@@ -117,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1b4d3696578a9fe",
+  "active": "7f4c362256d96d31",
   "lastOpenFiles": [
+    "KnowledgeBase/Programming/ColdFusion/view_request.cfm.md",
+    "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
+    "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
     "KnowledgeBase/Programming/ColdFusion/Ternary operator.md",
     "KnowledgeBase/Programming/Programming.md",
     "KnowledgeBase/Programming/ColdFusion/ColdFusion - JSON Data Return.md",
-    "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
     "KnowledgeBase/Templates/DailyNote.md",
     "KnowledgeBase/Daily Notes/2022-11-10.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
-    "KnowledgeBase/Daily Notes/2022-11-07.md",
-    "KnowledgeBase/Daily Notes/2022-11-09.md",
-    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-10-21.md"
+    "KnowledgeBase/Daily Notes/2022-11-07.md"
   ]
 }
