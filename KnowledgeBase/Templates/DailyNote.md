@@ -1,8 +1,8 @@
 # {{title}}
 << [[yesterday]] | [[tomorrow]]>>
-## Project Name
-### Tasks
-- task 1
+## Tasks
+### Project Name
+- [ ] task 1
 
 
 
