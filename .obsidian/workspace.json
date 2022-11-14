@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-13.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-13.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-13.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-13.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-14.md"
               }
             }
           }
@@ -142,6 +142,7 @@
   },
   "active": "1b66d75281109244",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-13.md",
     "KnowledgeBase/Daily Notes/2022-11-12.md",
     "KnowledgeBase/Projects/CERSI.md",
     "KnowledgeBase/Daily Notes/2022-11-11.md",
@@ -150,7 +151,6 @@
     "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
     "KnowledgeBase/Programming/ColdFusion/Ternary operator.md",
     "KnowledgeBase/Programming/Programming.md",
-    "KnowledgeBase/Programming/ColdFusion/ColdFusion - JSON Data Return.md",
-    "KnowledgeBase/Templates/DailyNote.md"
+    "KnowledgeBase/Programming/ColdFusion/ColdFusion - JSON Data Return.md"
   ]
 }
