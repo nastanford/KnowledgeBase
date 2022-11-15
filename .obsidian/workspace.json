@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b307adfb946cde16",
+        "id": "648b56d680f0e1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb51c674ed0ee41",
+            "id": "696f694e1abb5131",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ca6171ab6097024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-15.md"
               }
             }
           }
@@ -140,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ca6171ab6097024",
+  "active": "696f694e1abb5131",
   "lastOpenFiles": [
+    "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
+    "KnowledgeBase/Templates/workbench.md",
+    "KnowledgeBase/Templates/Meeting Notes Template.md",
     "KnowledgeBase/Daily Notes/2022-11-15.md",
-    "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
-    "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
-    "KnowledgeBase/Daily Notes/yesterday.md",
-    "KnowledgeBase/Templates/DailyNote.md",
-    "KnowledgeBase/Daily Notes/2022-11-14.md",
-    "KnowledgeBase/Daily Notes/2022-11-13.md",
-    "KnowledgeBase/Daily Notes/2022-11-12.md",
-    "KnowledgeBase/Daily Notes/2022-11-11.md",
-    "KnowledgeBase/Daily Notes/2022-11-10.md"
+    "KnowledgeBase/Daily Notes/2022-10-22.md",
+    "KnowledgeBase/Daily Notes/2022-10-17.md",
+    "KnowledgeBase/Daily Notes/2022-10-12.md",
+    "KnowledgeBase/Daily Notes/2022-10-11.md",
+    "KnowledgeBase/Daily Notes/2022-10-10.md",
+    "KnowledgeBase/Templates/DailyNote.md"
   ]
 }
