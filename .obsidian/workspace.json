@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
+                "file": "KnowledgeBase/Templates/DailyNote.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
+                "file": "KnowledgeBase/Templates/DailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
+                "file": "KnowledgeBase/Templates/DailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md"
+                "file": "KnowledgeBase/Templates/DailyNote.md"
               }
             }
           }
@@ -128,15 +128,15 @@
   },
   "active": "6eb51c674ed0ee41",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-15.md",
     "KnowledgeBase/Daily Notes/2022-11-14.md",
-    "KnowledgeBase/Templates/DailyNote.md",
-    "KnowledgeBase/Projects/OEM - COOP Tools.md",
-    "KnowledgeBase/Daily Notes/2022-11-11.md",
     "KnowledgeBase/Daily Notes/2022-11-13.md",
     "KnowledgeBase/Daily Notes/2022-11-12.md",
-    "KnowledgeBase/Projects/CERSI.md",
-    "KnowledgeBase/Programming/ColdFusion/view_request.cfm.md",
-    "KnowledgeBase/Weekly Status/2022-11-07 - 2022-11-11.md",
-    "KnowledgeBase/Projects/ORD - Satisfaction Survey.md"
+    "KnowledgeBase/Daily Notes/2022-11-11.md",
+    "KnowledgeBase/Daily Notes/2022-11-10.md",
+    "KnowledgeBase/Daily Notes/yesterday.md",
+    "KnowledgeBase/Templates/DailyNote.md",
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
+    "KnowledgeBase/Projects/CERSI.md"
   ]
 }
