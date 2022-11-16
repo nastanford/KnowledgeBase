@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-15.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-16.md"
               }
             }
           }
@@ -128,10 +128,10 @@
   },
   "active": "696f694e1abb5131",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-15.md",
     "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
     "KnowledgeBase/Templates/workbench.md",
     "KnowledgeBase/Templates/Meeting Notes Template.md",
-    "KnowledgeBase/Daily Notes/2022-11-15.md",
     "KnowledgeBase/Daily Notes/2022-10-22.md",
     "KnowledgeBase/Daily Notes/2022-10-17.md",
     "KnowledgeBase/Daily Notes/2022-10-12.md",
