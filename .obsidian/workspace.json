@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f356b2e0ecd273b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/SOP - CERSI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-16.md",
+                "file": "KnowledgeBase/Projects/SOP - CERSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-16.md",
+                "file": "KnowledgeBase/Projects/SOP - CERSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-16.md"
+                "file": "KnowledgeBase/Projects/SOP - CERSI.md"
               }
             }
           }
@@ -126,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "696f694e1abb5131",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
+    "KnowledgeBase/Images/a.jpg",
+    "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
+    "KnowledgeBase/Daily Notes/2022-11-16.md",
+    "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Daily Notes/2022-11-15.md",
     "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
     "KnowledgeBase/Templates/workbench.md",
     "KnowledgeBase/Templates/Meeting Notes Template.md",
-    "KnowledgeBase/Daily Notes/2022-10-22.md",
-    "KnowledgeBase/Daily Notes/2022-10-17.md",
-    "KnowledgeBase/Daily Notes/2022-10-12.md",
-    "KnowledgeBase/Daily Notes/2022-10-11.md",
-    "KnowledgeBase/Daily Notes/2022-10-10.md",
-    "KnowledgeBase/Templates/DailyNote.md"
+    "KnowledgeBase/Daily Notes/2022-10-22.md"
   ]
 }
