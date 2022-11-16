@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c020246f1bc15d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Notes/Thoughts.md",
+                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Notes/Thoughts.md",
+                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Notes/Thoughts.md"
+                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md"
               }
             }
           }
@@ -140,8 +153,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f356b2e0ecd273b0",
+  "active": "c020246f1bc15d37",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/SON - Nursing DNP Project forms.md",
+    "KnowledgeBase/Notes/Thoughts.md",
     "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
     "KnowledgeBase/Projects/SOP - CERSI.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
@@ -149,8 +164,6 @@
     "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
     "KnowledgeBase/Daily Notes/2022-11-16.md",
     "KnowledgeBase/Projects/UMSON - Student Reporting.md",
-    "KnowledgeBase/Daily Notes/2022-11-15.md",
-    "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
-    "KnowledgeBase/Templates/workbench.md"
+    "KnowledgeBase/Daily Notes/2022-11-15.md"
   ]
 }
