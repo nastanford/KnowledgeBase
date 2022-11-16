@@ -28,7 +28,7 @@ Friday           - 20% -  Misc., COOP, Law, GitHub
 - UMSON – Student Reporting – meeting today to find out what is and where we stand.
 - Finance – Deposit Form (starting that I think we said in December but that is not two weeks)
 
-Support
+## Support
 
 - CITS – UMB Portal, add IT Announcements, fix bugs found, etc
 - Budget Office – Helping Tom
