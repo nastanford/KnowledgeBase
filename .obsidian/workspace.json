@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Notes/Thoughts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Notes/Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Notes/Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md"
+                "file": "KnowledgeBase/Notes/Thoughts.md"
               }
             }
           }
@@ -142,6 +142,7 @@
   },
   "active": "f356b2e0ecd273b0",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
     "KnowledgeBase/Projects/SOP - CERSI.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Images/a.jpg",
@@ -150,7 +151,6 @@
     "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Daily Notes/2022-11-15.md",
     "KnowledgeBase/Templates/Eishenhower Matrix Template.md",
-    "KnowledgeBase/Templates/workbench.md",
-    "KnowledgeBase/Templates/Meeting Notes Template.md"
+    "KnowledgeBase/Templates/workbench.md"
   ]
 }
