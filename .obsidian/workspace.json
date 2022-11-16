@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md",
+                "file": "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md",
+                "file": "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md",
+                "file": "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/UMSON - Student Reporting.md"
+                "file": "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "c020246f1bc15d37",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Projects/SON - Nursing DNP Project forms.md",
     "KnowledgeBase/Notes/Thoughts.md",
     "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
@@ -163,7 +164,6 @@
     "KnowledgeBase/Images/a.jpg",
     "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
     "KnowledgeBase/Daily Notes/2022-11-16.md",
-    "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Daily Notes/2022-11-15.md"
   ]
 }
