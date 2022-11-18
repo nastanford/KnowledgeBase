@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-18.md",
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +103,19 @@
             "state": {
               "type": "starred",
               "state": {}
+            }
+          },
+          {
+            "id": "6829d6c98db11da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Daily Notes/2022-11-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -166,8 +178,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f356b2e0ecd273b0",
+  "active": "696f694e1abb5131",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2022-11-18.md",
+    "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
     "KnowledgeBase/Projects/SON - Nursing DNP Project forms.md",
     "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
@@ -175,8 +189,6 @@
     "KnowledgeBase/Templates/Meeting.md",
     "KnowledgeBase/Templates/Meeting Notes Template.md",
     "KnowledgeBase/Notes/Thoughts.md",
-    "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-    "KnowledgeBase/Daily Notes/2022-11-18.md",
     "KnowledgeBase/Templates/DailyNote.md"
   ]
 }
