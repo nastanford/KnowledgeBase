@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "91f417475d8be55f",
+            "id": "0b6ff882482e5cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/DNP - Forms Workflow.md",
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e45d3a8a392fd342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Notes/Thoughts.md",
+                "file": "KnowledgeBase/Projects/DNP - Forms Workflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91f417475d8be55f",
+  "active": "f356b2e0ecd273b0",
   "lastOpenFiles": [
+    "KnowledgeBase/Templates/Meeting.md",
+    "KnowledgeBase/Templates/Meeting Notes Template.md",
+    "KnowledgeBase/Notes/Thoughts.md",
+    "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
     "KnowledgeBase/Daily Notes/2022-11-18.md",
-    "KnowledgeBase/Daily Notes/2022-11-17.md",
-    "KnowledgeBase/Daily Notes/2022-11-16.md",
-    "KnowledgeBase/Daily Notes/2022-10-31.md",
-    "KnowledgeBase/Daily Notes/2022-10-30.md",
-    "KnowledgeBase/Daily Notes/2022-10-29.md",
-    "KnowledgeBase/Daily Notes/2022-10-28.md",
-    "KnowledgeBase/Daily Notes/2022-10-27.md",
-    "KnowledgeBase/Daily Notes/2022-10-26.md",
-    "KnowledgeBase/Daily Notes/2022-10-25.md"
+    "KnowledgeBase/Projects/DNP - Forms Workflow.md",
+    "KnowledgeBase/Templates/DailyNote.md",
+    "KnowledgeBase/Meeting Notes/UMSON/UMSON - 2022-11-16.md",
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
+    "KnowledgeBase/Daily Notes/2022-11-17.md"
   ]
 }

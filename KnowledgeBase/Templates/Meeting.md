@@ -1,8 +1,7 @@
-#project #DNP #Forms-Workflow tasks
-> DNP Doctor of Nursing Practice
-
-# Forms Workflow
+# {{title}}
 Date: {{date:YYYY-MM-DD}}
+
+## Forms Workflow
 
 ## Goals / agenda
 1. 
@@ -12,6 +11,4 @@ Date: {{date:YYYY-MM-DD}}
 
 ## Action items
 - [ ] Initial Meeting
-
-
 
