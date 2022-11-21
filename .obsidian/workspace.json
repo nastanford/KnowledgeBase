@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Programming/JavaScript/Console Log.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Programming/JavaScript/Console Log.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Programming/JavaScript/Console Log.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Programming/JavaScript/Console Log.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-20.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   },
   "active": "55f2a76cc86af3d2",
   "lastOpenFiles": [
+    "KnowledgeBase/Programming/JavaScript/Console Log.md",
     "KnowledgeBase/Daily Notes/2022-11-19.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
     "KnowledgeBase/Daily Notes/2022-11-18.md",
@@ -202,7 +203,6 @@
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/DNP - Forms Workflow.md",
     "KnowledgeBase/Templates/Meeting.md",
-    "KnowledgeBase/Templates/Meeting Notes Template.md",
-    "KnowledgeBase/Notes/Thoughts.md"
+    "KnowledgeBase/Templates/Meeting Notes Template.md"
   ]
 }
