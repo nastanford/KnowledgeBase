@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71f7967754feab14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Weekly Status/2022-11-21 - 2022-11-25.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7df98f0040a3afb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/Campus - my UMB Portal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md"
+                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md"
               }
             }
           }
@@ -141,15 +167,15 @@
   },
   "active": "55f2a76cc86af3d2",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
+    "KnowledgeBase/Projects/Campus - my UMB Portal.md",
+    "KnowledgeBase/Weekly Status/2022-11-21 - 2022-11-25.md",
+    "KnowledgeBase/Projects/Campus - Push to Production.md",
+    "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2022-11-28.md",
     "KnowledgeBase/Projects/Law - T4.md",
     "KnowledgeBase/Daily Notes/2022-11-23.md",
-    "KnowledgeBase/Daily Notes/2022-11-22.md",
-    "KnowledgeBase/Daily Notes/2022-11-21.md",
-    "KnowledgeBase/Daily Notes/2022-11-20.md",
-    "KnowledgeBase/Programming/JavaScript/Console Log.md",
-    "KnowledgeBase/Daily Notes/2022-11-19.md",
-    "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-    "KnowledgeBase/Daily Notes/2022-11-18.md"
+    "KnowledgeBase/Daily Notes/2022-11-22.md"
   ]
 }
