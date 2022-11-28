@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "696f694e1abb5131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Daily Notes/2022-11-19.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55f2a76cc86af3d2",
             "type": "leaf",
             "state": {
@@ -32,48 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b6ff882482e5cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e45d3a8a392fd342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f356b2e0ecd273b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,6 +141,8 @@
   },
   "active": "55f2a76cc86af3d2",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/Law - T4.md",
+    "KnowledgeBase/Daily Notes/2022-11-28.md",
     "KnowledgeBase/Daily Notes/2022-11-23.md",
     "KnowledgeBase/Daily Notes/2022-11-22.md",
     "KnowledgeBase/Daily Notes/2022-11-21.md",
@@ -201,8 +150,6 @@
     "KnowledgeBase/Programming/JavaScript/Console Log.md",
     "KnowledgeBase/Daily Notes/2022-11-19.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-    "KnowledgeBase/Daily Notes/2022-11-18.md",
-    "KnowledgeBase/Projects/SON - Nursing DNP Project forms.md",
-    "KnowledgeBase/Projects/UMSON - Student Reporting.md"
+    "KnowledgeBase/Daily Notes/2022-11-18.md"
   ]
 }
