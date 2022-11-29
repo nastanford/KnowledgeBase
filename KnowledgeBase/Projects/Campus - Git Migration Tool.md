@@ -1,8 +1,3 @@
-# 2022-11-29
-<< [[yesterday]] | [[tomorrow]]>>
-## Tasks
-### GIT Migration Tool
-- [ ] task 1
 
 ## Notes
 Admin - Web Admin using Web Admin (Webdev - group)
@@ -22,6 +17,3 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/umbcitsweb/testApp.git
 git push -u origin main
-
-
-
