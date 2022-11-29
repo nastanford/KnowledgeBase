@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
+                "file": "KnowledgeBase/Daily Notes/2022-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md"
+                "file": "KnowledgeBase/Daily Notes/2022-11-29.md"
               }
             }
           }
@@ -167,11 +167,11 @@
   },
   "active": "55f2a76cc86af3d2",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
     "KnowledgeBase/Weekly Status/2022-11-14 - 2022-11-18.md",
     "KnowledgeBase/Projects/Campus - my UMB Portal.md",
     "KnowledgeBase/Weekly Status/2022-11-21 - 2022-11-25.md",
     "KnowledgeBase/Projects/Campus - Push to Production.md",
-    "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2022-11-28.md",
     "KnowledgeBase/Projects/Law - T4.md",
