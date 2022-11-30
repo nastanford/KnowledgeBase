@@ -1,7 +1,3 @@
-# 2022-11-30
-<< [[yesterday]] | [[tomorrow]]>>
-## Tasks
-
 ### Projects 
 - [x] Campus - UMB Portal - Duplicate alerts System Announcement
 - [ ] Campus - UMB Portal - Fix Mass Update
@@ -12,9 +8,7 @@
 - [ ] Law - Academic
 - [ ] Campus - UMB Portal - Update Users Graph in Admin Dashboard
 
-
 ### [[Campus - myUMB Portal]]
 #### System Announcements:
 - [ ] why can't pick a security type and required?
 - [ ] What's New Widget - remove
-
