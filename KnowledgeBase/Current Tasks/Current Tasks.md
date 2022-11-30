@@ -1,6 +1,6 @@
 ### Projects 
 - [x] Campus - UMB Portal - Duplicate alerts System Announcement
-- [ ] Campus - UMB Portal - Fix Mass Update
+- [x] Campus - UMB Portal - Fix Mass Update
 - [ ] Campus - UMB Portal - Updates to System Announcement on UMB Portal
 - [ ] Campus - Git Migration Tool
 - [ ] Law T4 - Need Done before new T4 move
