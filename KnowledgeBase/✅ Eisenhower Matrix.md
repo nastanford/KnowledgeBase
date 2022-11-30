@@ -6,7 +6,7 @@
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] [[Campus - my UMB Portal]]
+- [ ] [[Campus - myUMB Portal]]
 - [ ] [[Finance - Department Deposit Form]]
 
 ### IMPORTANT, NOT URGENT
