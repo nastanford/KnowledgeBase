@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Current Tasks/Current Tasks.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Current Tasks/Current Tasks.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Current Tasks/Current Tasks.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Current Tasks/Current Tasks.md"
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "8545f582525d93e3",
   "lastOpenFiles": [
+    "KnowledgeBase/Current Tasks/Current Tasks.md",
     "KnowledgeBase/Databases/Oracle/Oracle Sql.md",
     "KnowledgeBase/Daily Notes/2022-11-30.md",
-    "KnowledgeBase/Current Tasks/Current Tasks.md",
     "KnowledgeBase/Daily Notes/2022-11-29.md",
     "KnowledgeBase/Projects/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/Campus - Git Migration Tool.md",
