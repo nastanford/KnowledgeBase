@@ -26,10 +26,10 @@ git push -u origin main
   List of Server Instances
   - wwwroot*
   - folders (Example)
-    - foldername Create Repo Development
-    - foldername Clone Repo Development
-    - foldername Git Pull Development - Clone Repo Production
-    - foldername Git Pull Development - Git Pull Production
+    - folder name Create Repo Development
+    - folder name Clone Repo Development
+    - folder name Git Pull Development - Clone Repo Production
+    - folder name Git Pull Development - Git Pull Production
 
 > When creating a repo this should only be for the root of your application.
 
