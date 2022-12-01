@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e1143c55cd88b541",
+        "id": "983729ee73bede84",
         "type": "tabs",
         "children": [
           {
-            "id": "d78ad97cc7f74a35",
+            "id": "2547f7cf58ea7a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Databases/Oracle/Oracle Sql.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8545f582525d93e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Projects/Campus - myUMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - myUMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - myUMB Portal.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/Campus - myUMB Portal.md"
+                "file": "KnowledgeBase/Daily Notes/2022-12-01.md"
               }
             }
           }
@@ -153,16 +139,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8545f582525d93e3",
+  "active": "2547f7cf58ea7a08",
   "lastOpenFiles": [
+    "KnowledgeBase/Databases/Oracle/Oracle Sql.md",
+    "KnowledgeBase/Projects/Campus - myUMB Portal.md",
     "KnowledgeBase/Daily Notes/2022-11-16.md",
     "KnowledgeBase/Daily Notes/2022-11-01.md",
     "KnowledgeBase/Daily Notes/2022-12-01.md",
     "KnowledgeBase/Daily Notes/2022-11-30.md",
     "KnowledgeBase/Current Tasks/Current Tasks.md",
-    "KnowledgeBase/Databases/Oracle/Oracle Sql.md",
     "KnowledgeBase/Daily Notes/2022-11-29.md",
-    "KnowledgeBase/Projects/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/Campus - Git Migration Tool.md",
     "KnowledgeBase/Weekly Status/2022-11-21 - 2022-11-25.md"
   ]
