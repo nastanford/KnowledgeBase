@@ -27,13 +27,14 @@ git push -u origin main
   - wwwroot*
   - folders (Example)
     - folder name Create Repo Development
-    - folder name Clone Repo Development
-    - folder name Git Pull Development - Clone Repo Production
-    - folder name Git Pull Development - Git Pull Production
+    - folder name Clone Repo Development  ***
+    - Check for GITHUB API to pull the repositories.
+    - folder name Git Push Development - Clone Repo Production
+    - folder name Git Push Development - Git Push Production
 
 > When creating a repo this should only be for the root of your application.
 
-- [ ] How to check subfolder for hidden .git folder
+- [x] How to check subfolder for hidden .git folder
 - [ ] How to Create a Repo to Development 
 - [ ] How to Clone a Repo to Production
 
