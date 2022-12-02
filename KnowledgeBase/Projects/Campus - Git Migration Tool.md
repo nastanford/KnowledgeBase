@@ -42,5 +42,5 @@ git push -u origin main
 - Members
 - Functions - (Role) - wwwroot_bioresco -  Sanjay
 - Functions - (Role) - ALL -  Members
-- Groups for CITS WEBDEV Team -  
+- Group for CITS WEBDEV Team -  
 
