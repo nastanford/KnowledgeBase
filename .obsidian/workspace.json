@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
+                "file": "KnowledgeBase/Daily Notes/2022-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md"
+                "file": "KnowledgeBase/Daily Notes/2022-12-16.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "832a7b4abfece415",
   "lastOpenFiles": [
+    "KnowledgeBase/Meeting Notes/OEM/OEM-2022-11-07.md",
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
+    "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
     "KnowledgeBase/Weekly Status/2022-11-28 - 2022-12-02.md",
     "KnowledgeBase/Daily Notes/2022-12-15.md",
     "KnowledgeBase/Daily Notes/2022-12-14.md",
     "KnowledgeBase/Daily Notes/Datatables Date Sort Fix.md",
     "KnowledgeBase/Daily Notes/2022-12-13.md",
     "KnowledgeBase/Daily Notes/2022-12-12.md",
-    "KnowledgeBase/Daily Notes/2022-12-09.md",
-    "KnowledgeBase/Daily Notes/2022-12-08.md",
-    "KnowledgeBase/Daily Notes/2022-12-07.md",
-    "KnowledgeBase/Daily Notes/2022-12-06.md"
+    "KnowledgeBase/Daily Notes/2022-12-09.md"
   ]
 }
