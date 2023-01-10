@@ -1,8 +1,3 @@
-Monday       - 20% - Tom - GitHub
-Tuesday       - 20% - COOP - Tom - GitHub
-Wednesday  - 20% -  Law
-Thursday      - 20% -  Law
-Friday           - 20% -  Misc., COOP, Law, GitHub
 
 ### Current Projects
 - Git Push Production
