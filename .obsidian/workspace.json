@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Notes/Projects.md",
+                "file": "KnowledgeBase/Daily Notes/2023-01-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Notes/Projects.md",
+                "file": "KnowledgeBase/Daily Notes/2023-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Notes/Projects.md",
+                "file": "KnowledgeBase/Daily Notes/2023-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Notes/Projects.md"
+                "file": "KnowledgeBase/Daily Notes/2023-01-11.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "f77254acf3d54f37",
   "lastOpenFiles": [
+    "KnowledgeBase/Notes/Projects.md",
     "KnowledgeBase/Daily Notes/2023-01-10.md",
     "KnowledgeBase/Daily Notes/2022-11-23.md",
     "KnowledgeBase/Daily Notes/2022-11-22.md",
@@ -161,7 +162,6 @@
     "KnowledgeBase/Programming/JavaScript/Console Log.md",
     "KnowledgeBase/Daily Notes/2022-11-19.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2022-11-18.md",
-    "KnowledgeBase/Daily Notes/2022-11-18.md",
-    "KnowledgeBase/Projects/SON - Nursing DNP Project forms.md"
+    "KnowledgeBase/Daily Notes/2022-11-18.md"
   ]
 }
