@@ -1,9 +1,8 @@
 ### Current Projects
 - Law T4
 - OEM - COOP Tools
-- DNP - Forms Workflow
-<hr>
-
 - Campus - Git Migration Tool
+
+- DNP - Forms Workflow
 - Campus - myUMB Portal
 - Law - Academic
