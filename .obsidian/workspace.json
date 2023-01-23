@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5292d60a49cba18b",
+        "id": "82397aee2ce75ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "f77254acf3d54f37",
+            "id": "4dd258eb88976f86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88a39b33fc5026ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/CFAdmin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +146,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88a39b33fc5026ab",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
     "KnowledgeBase/Daily Notes/2023-01-23.md",
     "KnowledgeBase/Daily Notes/2023-01-20.md",
