@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-24.md",
+                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-24.md",
+                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-24.md",
+                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-24.md"
+                "file": "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "4dd258eb88976f86",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2023-01-24.md",
     "KnowledgeBase/Daily Notes/2023-01-13.md",
     "KnowledgeBase/Daily Notes/2023-01-11.md",
     "KnowledgeBase/Daily Notes/2023-01-10.md",
@@ -161,7 +162,6 @@
     "Cloud/CFAdmin.md",
     "KnowledgeBase/Daily Notes/2023-01-23.md",
     "KnowledgeBase/Daily Notes/2023-01-20.md",
-    "KnowledgeBase/Notes/Projects.md",
-    "KnowledgeBase/Daily Notes/2023-01-19.md"
+    "KnowledgeBase/Notes/Projects.md"
   ]
 }
