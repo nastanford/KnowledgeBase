@@ -1,5 +1,10 @@
 #project #oem #cooptools #tasks
 
+## My Items
+- [ ] Leadership Succession - Update column name position to title
+- [ ] Essential Processes - Add Table for Time Sensitivity
+
+
 ## Action Items
 ### Essential Process: 
 1.  [x]  Replace “Leadership Succession Table” with “Essential Processes”
