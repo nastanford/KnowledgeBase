@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-27.md",
+                "file": "KnowledgeBase/Daily Notes/2023-01-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-27.md",
+                "file": "KnowledgeBase/Daily Notes/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-27.md",
+                "file": "KnowledgeBase/Daily Notes/2023-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-27.md"
+                "file": "KnowledgeBase/Daily Notes/2023-01-30.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "4dd258eb88976f86",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2023-01-27.md",
     "KnowledgeBase/Daily Notes/2023-01-26.md",
     "KnowledgeBase/Learn/Plan to Push to Production.md",
     "KnowledgeBase/Weekly Status/2022-10-17 - 2022-10-21.md",
@@ -161,7 +162,6 @@
     "KnowledgeBase/Daily Notes/2022-11-20.md",
     "KnowledgeBase/Daily Notes/2022-11-17.md",
     "KnowledgeBase/Daily Notes/2022-11-12.md",
-    "KnowledgeBase/Daily Notes/2022-11-09.md",
-    "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md"
+    "KnowledgeBase/Daily Notes/2022-11-09.md"
   ]
 }
