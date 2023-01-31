@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-31.md",
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-31.md",
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-31.md",
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-01-31.md"
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md"
               }
             }
           }
@@ -168,6 +167,7 @@
   },
   "active": "5b2bc233bb9ae16c",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2023-01-31.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Notes/Projects.md",
     "KnowledgeBase/Learn/Projects.md",
@@ -176,7 +176,6 @@
     "KnowledgeBase/Notes/Untitled.md",
     "KnowledgeBase/Images/a.jpg",
     "KnowledgeBase/Databases/Databases.md",
-    "KnowledgeBase/Daily Notes/2023-01-27.md",
-    "KnowledgeBase/Daily Notes/2023-01-26.md"
+    "KnowledgeBase/Daily Notes/2023-01-27.md"
   ]
 }
