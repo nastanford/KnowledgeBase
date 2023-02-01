@@ -1,8 +1,8 @@
 #project #oem #cooptools #tasks
 
 ## My Items
-- [ ] Leadership Succession - Update column name position to title - Sent to dba's
-- [ ] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
+- [x] Leadership Succession - Update column name position to title - Sent to dba's
+- [x] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
 
 ## Action Items
 ### Essential Process: 
