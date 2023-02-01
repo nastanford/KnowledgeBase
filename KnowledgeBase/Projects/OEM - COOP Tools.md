@@ -8,7 +8,7 @@
 ### Essential Process: 
 1.  [x]  Replace “Leadership Succession Table” with “Essential Processes”
 2.  [x]  Typo under Continuity Strategies, “preforms” should be “performs”
-3.   [ ] Time-sensitivity should be a drop down….is it already? If not, please add as options: Immediately, Within a few days, Within a couple week, and In a month or more.
+3.   [ ] Time-sensitivity should be a drop down….is it already? If not, please add as options: Immediately, Within a few days, Within a couple week, and In a month or more. (Done on Development but waiting for insert permissions on Production.)
 - [ ] i. Dropdown should be applied (or auto-populated) for time-sensitivity in Essential Job Aids too.
 
 ### Essential Process Job Aids: **Authorities**
