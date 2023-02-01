@@ -46,7 +46,8 @@
 - [ ] 1.  Hayley, I think the Concept of Operations section needs a section that makes it clear who is doing what and how the differentiation between those sections are determined. I would struggle to implement the plan if I were department continuity personnel. It should probably be in a format like if this then this, sort of like our duty officer checklists.
 - [ ] 2.  Nathan, I don’t think the Contact Roster table should be called “Leadership Succession Table”, perhaps “Contacts Roster”. I’d like to see a column in that table that specifies the role the person has in the plan (e.g. Primary Essential Process 1, Secondary Essential Process 3, etc. ).
 
-
+### More Changes
+- [ ] Create a CRUD Screen for Time Sensitivity Table
 
 ### List
 - Leadership Succession
