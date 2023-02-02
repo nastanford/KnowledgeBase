@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Websec.md",
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Websec.md",
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Websec.md",
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Websec.md"
+                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "130413ca7120e466",
   "lastOpenFiles": [
+    "Cloud/Websec.md",
     "Cloud/CFAdmin.md",
     "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2023-02-02.md",
@@ -188,7 +189,6 @@
     "KnowledgeBase/Notes/Projects.md",
     "KnowledgeBase/Learn/Projects.md",
     "KnowledgeBase/Daily Notes/Call Security.md",
-    "KnowledgeBase/Daily Notes/2023-01-30.md",
-    "KnowledgeBase/Notes/Untitled.md"
+    "KnowledgeBase/Daily Notes/2023-01-30.md"
   ]
 }
