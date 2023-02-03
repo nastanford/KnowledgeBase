@@ -3,7 +3,7 @@
 ## My Items
 - [x] Leadership Succession - Update column name position to title - Sent to dba's
 - [x] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
-- [ ] Leadership Succession - CRUD (Max: 3 - Primary, Secondary, Tertiary)
+- [x] Leadership Succession - CRUD (Max: 3 - Primary, Secondary, Tertiary)
 - [ ] Essential Processes - CRUD
 - [ ] Essential Processes - People - Database Process_id
 - [ ] Essential Processes - People - CRUD
@@ -17,6 +17,7 @@
 - [ ] Plan - PDF
 - [ ] Plan - CSV
 - [ ] Create Admin for Users or Use Current one with if statements.
+- [ ] Update Approved need it to be Y/N and Null
 
  
 

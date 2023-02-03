@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md"
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md"
               }
             }
           }
@@ -154,15 +153,15 @@
   },
   "active": "86c0a5d82a4037bc",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
+    "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/BO - Budget  Office.md",
     "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
     "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Learn/Projects.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
-    "KnowledgeBase/Projects/Campus - Push to Production.md",
-    "KnowledgeBase/Projects/AF Finance - Deposit Form/Finance - Department Deposit Form.md",
-    "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
-    "KnowledgeBase/Meeting Notes/F.md",
-    "KnowledgeBase/Meeting Notes/Follow up Meeting Email.md"
+    "KnowledgeBase/Projects/Campus - Push to Production.md"
   ]
 }
