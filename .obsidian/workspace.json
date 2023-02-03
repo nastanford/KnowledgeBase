@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+                "file": "Example Templates/Follow up Meeting Email.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e99f4f6f8a49c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Example Templates/Follow Up Meeting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 358.5
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+                "file": "Example Templates/Follow Up Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+                "file": "Example Templates/Follow Up Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md"
+                "file": "Example Templates/Follow Up Meeting.md"
               }
             }
           }
@@ -151,17 +165,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86c0a5d82a4037bc",
+  "active": "9e99f4f6f8a49c2b",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
+    "Example Templates/Follow up Meeting Email.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/BO - Budget  Office.md",
     "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
     "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Learn/Projects.md",
-    "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
-    "KnowledgeBase/Projects/Campus - Push to Production.md"
+    "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md"
   ]
 }
