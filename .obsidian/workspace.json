@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM - COOP Tools.md"
+                "file": "KnowledgeBase/Daily Notes/2023-02-03.md"
               }
             }
           }
@@ -180,9 +180,9 @@
   },
   "active": "130413ca7120e466",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "Cloud/Websec.md",
     "Cloud/CFAdmin.md",
-    "KnowledgeBase/Projects/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2023-02-02.md",
     "KnowledgeBase/Daily Notes/2023-02-01.md",
     "KnowledgeBase/Daily Notes/2023-01-31.md",
