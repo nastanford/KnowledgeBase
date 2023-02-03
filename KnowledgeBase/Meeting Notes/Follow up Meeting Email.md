@@ -12,17 +12,16 @@ Notes:
 	- https://badgr.com/auth/login  
 
 Action Items
-- What CSV File Layout
+- What CSV File Layout - Example
 - Who: Laura
 - Status:  
 - Deadline: 
 
 Action Items
-- What: Reports
+- What: Reports - Examples
 - Who: Laura and Hayley
 - Status: 
 - Deadline: 
-
 
 
 Please let me know if you have any questions or need any assistance with your action items. I am happy to help in any way I can. Thank you for your time and attention.  
