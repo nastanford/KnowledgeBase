@@ -3,6 +3,23 @@
 ## My Items
 - [x] Leadership Succession - Update column name position to title - Sent to dba's
 - [x] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
+- [ ] Leadership Succession - CRUD
+- [ ] Essential Processes - CRUD
+- [ ] Essential Processes - People - Database Process_id
+- [ ] Essential Processes - People - CRUD
+- [ ] Essential Processes - Places - CRUD
+- [ ] Essential Processes - Things - CRUD
+- [ ] Contact Roster - CRUD
+- [ ] Additional Information - CRUD
+- [ ] Record of Change - CRUD
+- [ ] CSV File - What is the layout of the CSV
+- [ ] Plan - HTML
+- [ ] Plan - PDF
+- [ ] Plan - CSV
+
+ 
+
+
 
 ## Action Items
 ### Essential Process: 
