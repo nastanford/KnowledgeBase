@@ -4,71 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "82397aee2ce75ffa",
+        "id": "9eb05966d510d984",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2bc233bb9ae16c",
+            "id": "86c0a5d82a4037bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/CFAdmin.md",
+                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "130413ca7120e466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87a5477278858a1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee00f60af408b06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Meeting Notes/Follow up Meeting Email.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8334a7c7a08f89f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md"
+              }
             }
           }
         ]
@@ -195,46 +151,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "ac604bcf6d71f1fb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8316d969243a7f8a",
-        "type": "window",
-        "children": [
-          {
-            "id": "570d1c80841e3c8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4dd258eb88976f86",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "KnowledgeBase/Daily Notes/2023-01-30.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2777,
-        "y": 222,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bd54e64ea51908bd",
+  "active": "86c0a5d82a4037bc",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/BO - Budget  Office.md",
     "KnowledgeBase/Projects/ORD - Satisfaction Survey.md",
     "KnowledgeBase/Projects/UMSON - Student Reporting.md",
     "KnowledgeBase/Learn/Projects.md",
@@ -243,7 +162,6 @@
     "KnowledgeBase/Projects/AF Finance - Deposit Form/Finance - Department Deposit Form.md",
     "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
     "KnowledgeBase/Meeting Notes/F.md",
-    "KnowledgeBase/Meeting Notes/Follow up Meeting Email.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md"
+    "KnowledgeBase/Meeting Notes/Follow up Meeting Email.md"
   ]
 }
