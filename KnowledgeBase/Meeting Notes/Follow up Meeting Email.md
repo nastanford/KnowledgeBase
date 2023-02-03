@@ -10,6 +10,14 @@ Notes:
 - Production: - https://cfapps.umaryland.edu/cooptool/
 - badgr: canvas  - https://community.canvaslms.com/t5/Canvas-Credentials-Badges-Badgr/ct-p/canvas-credentials-badges
 	- https://badgr.com/auth/login  
+## Roles
+- App Admin - God Mode
+- Admin - Department/Group - Users, Roles,
+- Approvers - Approval of Plan
+- Planner - Add, Edit, Delete
+- View Only - Link to Plan
+- Approved - Yes and No
+
 
 Action Items
 - What CSV File Layout - Example
@@ -28,6 +36,14 @@ Action Items
 - Who: Laura and Hayley
 - Status: 
 - Deadline: 
+
+Action Items
+- What: Roles - Admin, Approvers, Planner, View Only - what do they have access to?
+- Who: Laura and Hayley
+- Status: 
+- Deadline: 
+
+
 
 
 Please let me know if you have any questions or need any assistance with your action items. I am happy to help in any way I can. Thank you for your time and attention.  
