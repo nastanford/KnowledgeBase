@@ -1,6 +1,7 @@
 #project #oem #cooptools #tasks
 
 ## My Items
+- [ ] Update Approved need it to be Y/N and Null
 - [x] Leadership Succession - Update column name position to title - Sent to dba's
 - [x] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
 - [x] Leadership Succession - CRUD (Max: 3 - Primary, Secondary, Tertiary)
@@ -17,7 +18,6 @@
 - [ ] Plan - PDF
 - [ ] Plan - CSV
 - [ ] Create Admin for Users or Use Current one with if statements.
-- [ ] Update Approved need it to be Y/N and Null
 
  
 
