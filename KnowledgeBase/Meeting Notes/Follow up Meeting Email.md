@@ -5,6 +5,10 @@ Names,
 
 This is a follow up to our meeting where we discussed COOP TOOL and identified action items for each of us. I wanted to review these action items and ensure that everyone is on the same page. 
 
+Notes:
+- Development: - https://cfappsdev.umaryland.edu/cooptool/
+- Production: - https://cfapps.umaryland.edu/cooptool/
+
 Action Items
 - Who:
 - Status:
