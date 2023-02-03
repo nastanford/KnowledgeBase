@@ -10,9 +10,9 @@ Notes:
 - Production: - https://cfapps.umaryland.edu/cooptool/
 
 Action Items
-- What: CSV
-- Who: 
-- Status: 
+- What CSV File Layout
+- Who:  
+- Status:  
 - Deadline: 
 
 Action Items
