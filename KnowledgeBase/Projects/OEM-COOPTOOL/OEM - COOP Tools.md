@@ -6,6 +6,7 @@
 - [x] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
 - [x] Leadership Succession - CRUD (Max: 3 - Primary, Secondary, Tertiary)
 - [ ] Essential Processes - CRUD
+- [ ] Essential Processes - 
 - [ ] Essential Processes - People - Database Process_id
 - [ ] Essential Processes - People - CRUD
 - [ ] Essential Processes - Places - CRUD
