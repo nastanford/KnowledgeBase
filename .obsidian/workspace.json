@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2022-10-03 - 2022-10-07.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2023-02-08.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2023-02-08.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/2023-02-08.md"
+                "file": "KnowledgeBase/Daily Notes/2023-02-09.md"
               }
             }
           }
@@ -165,9 +164,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bfd48c64da4503e",
+  "active": "47ba21cb35faa015",
   "lastOpenFiles": [
     "KnowledgeBase/Weekly Status/2022-10-03 - 2022-10-07.md",
+    "KnowledgeBase/Weekly Status/2023-02-08.md",
     "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
     "KnowledgeBase/Daily Notes/2023-02-08.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
@@ -175,7 +175,6 @@
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Daily Notes/2023-02-07.md",
     "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md",
-    "Example Templates/Follow up Meeting Email.md",
-    "Example Templates/Follow Up Meeting.md"
+    "Example Templates/Follow up Meeting Email.md"
   ]
 }
