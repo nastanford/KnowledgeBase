@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-10.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-10.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-10.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-10.md"
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md"
               }
             }
           }
@@ -166,6 +166,7 @@
   },
   "active": "47ba21cb35faa015",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2023-02-10.md",
     "KnowledgeBase/Daily Notes/2023-02-09.md",
     "KnowledgeBase/Weekly Status/2022-10-03 - 2022-10-07.md",
     "KnowledgeBase/Weekly Status/2023-02-08.md",
@@ -174,7 +175,6 @@
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
-    "KnowledgeBase/Daily Notes/2023-02-07.md",
-    "KnowledgeBase/Projects/AF Finance - Deposit Form/2023-02-03 Followup.md"
+    "KnowledgeBase/Daily Notes/2023-02-07.md"
   ]
 }

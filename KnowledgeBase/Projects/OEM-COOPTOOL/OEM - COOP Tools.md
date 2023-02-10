@@ -22,9 +22,12 @@
 - [ ] Plan - CSV
 - [ ] Create Admin for Users or Use Current one with if statements.
 
- 
-
-
+### Test Roles
+#### Approved
+- [ ] Admin
+- [ ] Approver
+- [ ] Planner
+- [ ] View Only
 
 ## Action Items
 ### Essential Process: 
