@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md"
+                "file": "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "47ba21cb35faa015",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
+    "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
+    "Cloud/Websec.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2023-02-10.md",
     "KnowledgeBase/Daily Notes/2023-02-09.md",
     "KnowledgeBase/Weekly Status/2022-10-03 - 2022-10-07.md",
     "KnowledgeBase/Weekly Status/2023-02-08.md",
     "KnowledgeBase/Weekly Status/2022-12-4 - 2022-12-09.md",
-    "KnowledgeBase/Daily Notes/2023-02-08.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
-    "KnowledgeBase/Daily Notes/2023-02-07.md"
+    "KnowledgeBase/Daily Notes/2023-02-08.md"
   ]
 }
