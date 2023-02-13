@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-13.md",
+                "file": "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-13.md",
+                "file": "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-13.md",
+                "file": "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-13.md"
+                "file": "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md"
               }
             }
           }
@@ -180,15 +180,15 @@
   },
   "active": "67318e948b363f6b",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
+    "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
+    "KnowledgeBase/Daily Notes/2023-02-13.md",
+    "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "Example Templates/Follow up Meeting Email.md",
     "Example Templates/Follow Up Meeting.md",
-    "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
     "Cloud/Websec.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-    "KnowledgeBase/Daily Notes/2023-02-10.md"
+    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md"
   ]
 }
