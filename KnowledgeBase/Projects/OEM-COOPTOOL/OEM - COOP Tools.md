@@ -21,6 +21,7 @@
 - [ ] Plan - PDF
 - [ ] Plan - CSV
 - [ ] Create Admin for Users or Use Current one with if statements.
+- [ ] DeptRoleType Security
 - [ ] Add Signature Table
 - [ ] Add Signature Code
 
