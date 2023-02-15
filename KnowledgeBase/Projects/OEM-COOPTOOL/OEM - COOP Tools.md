@@ -24,7 +24,9 @@
 - [ ] DeptRoleType Security
 - [ ] Add Signature Table
 - [ ] Add Signature Code
-- [ ] signature inactive
+- [ ] Signature inactive
+- [ ] Check Requests only show - Departments user has rights too
+- [ ] Check Users only show - Departments user has rights too
 
 edit user admin
 
