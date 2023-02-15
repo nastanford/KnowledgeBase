@@ -26,6 +26,7 @@
 - [ ] Add Signature Code
 - [ ] Signature inactive
 - [ ] Check Requests only show - Departments user has rights too
+- [ ] Check Requests Red Circle Count
 - [ ] Check Users only show - Departments user has rights too
 
 edit user admin
