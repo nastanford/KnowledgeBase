@@ -24,6 +24,7 @@
 - [ ] DeptRoleType Security
 - [ ] Add Signature Table
 - [ ] Add Signature Code
+- [ ] signature inactive
 
 edit user admin
 
