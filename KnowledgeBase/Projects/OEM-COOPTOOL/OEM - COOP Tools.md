@@ -2,20 +2,20 @@
 
 ## My Items
 
-- [ ] Version of - record of change
-- [ ] Update Approved need it to be Y/N and Null
+- [x] Version of - record of change
+- [x] Update Approved need it to be Y/N and Null
 - [x] Leadership Succession - Update column name position to title - Sent to dba's
 - [x] Essential Processes - Add Table for Time Sensitivity - Sent to dba's
 - [x] Leadership Succession - CRUD (Max: 3 - Primary, Secondary, Tertiary)
-- [ ] Essential Processes - CRUD
-- [ ] Essential Processes - 
-- [ ] Essential Processes - People - Database Process_id
-- [ ] Essential Processes - People - CRUD
-- [ ] Essential Processes - Places - CRUD
-- [ ] Essential Processes - Things - CRUD
-- [ ] Contact Roster - CRUD
-- [ ] Additional Information - CRUD
-- [ ] Record of Change - CRUD
+- [x] Essential Processes - CRUD
+- [x] Essential Processes - 
+- [x] Essential Processes - People - Database Process_id
+- [x] Essential Processes - People - CRUD
+- [x] Essential Processes - Places - CRUD
+- [x] Essential Processes - Things - CRUD
+- [x] Contact Roster - CRUD
+- [x] Additional Information - CRUD
+- [x] Record of Change - CRUD
 - [ ] CSV File - What is the layout of the CSV
 - [ ] Plan - HTML
 - [ ] Plan - PDF
@@ -29,6 +29,40 @@
 - [ ] Planner
 - [ ] View Only
 
+```php
+<!---
+0. Webdev
+  WebDev= Yes/No
+  select *
+  from usergroup
+  WHERE GROUP_NAME = 'WEBDEV';
+--->
+
+<cfquery name="" datasource="#websec#">
+  SELECT *
+  FROM usergroup
+  WHERE GROUP_NAME = 'WEBDEV'
+</cfquery>
+<!---
+1. Check to see if AppAdmin vs User
+  AppAdmin= Yes/No
+
+  select *
+  from usergroup
+  WHERE GROUP_NAME LIKE 'WEBDEV%';
+--->
+<cfquery name="" datasource="#websec#">
+  SELECT *
+  FROM usergroup
+  WHERE GROUP_NAME = 'COOPTOOL_ADMIN'
+</cfquery>
+<!---
+2. Check to see what role types for what departments
+  DepartmentRoleType =
+    - DepartmentID
+    - RoleType
+  --->
+```
 ## Action Items
 ### Essential Process: 
 1.  [x]  Replace “Leadership Succession Table” with “Essential Processes”
