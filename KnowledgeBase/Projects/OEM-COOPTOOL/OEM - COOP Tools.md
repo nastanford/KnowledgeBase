@@ -21,6 +21,8 @@
 - [ ] Plan - PDF
 - [ ] Plan - CSV
 - [ ] Create Admin for Users or Use Current one with if statements.
+- [ ] Add Signature Table
+- [ ] Add Signature Code
 
 ### Test Roles
 #### Approved
