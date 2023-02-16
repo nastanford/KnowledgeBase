@@ -38,40 +38,6 @@ edit user admin
 - [ ] Planner
 - [ ] View Only
 
-```php
-<!---
-0. Webdev
-  WebDev= Yes/No
-  select *
-  from usergroup
-  WHERE GROUP_NAME = 'WEBDEV';
---->
-
-<cfquery name="" datasource="#websec#">
-  SELECT *
-  FROM usergroup
-  WHERE GROUP_NAME = 'WEBDEV'
-</cfquery>
-<!---
-1. Check to see if AppAdmin vs User
-  AppAdmin= Yes/No
-
-  select *
-  from usergroup
-  WHERE GROUP_NAME LIKE 'WEBDEV%';
---->
-<cfquery name="" datasource="#websec#">
-  SELECT *
-  FROM usergroup
-  WHERE GROUP_NAME = 'COOPTOOL_ADMIN'
-</cfquery>
-<!---
-2. Check to see what role types for what departments
-  DepartmentRoleType =
-    - DepartmentID
-    - RoleType
-  --->
-```
 ## Action Items
 ### Essential Process: 
 1.  [x]  Replace “Leadership Succession Table” with “Essential Processes”

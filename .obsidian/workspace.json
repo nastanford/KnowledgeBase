@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-16.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-16.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-16.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-16.md"
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md"
               }
             }
           }
@@ -180,15 +180,15 @@
   },
   "active": "ab0e6d42c876527d",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+    "KnowledgeBase/Daily Notes/2023-02-16.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
     "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
     "KnowledgeBase/Daily Notes/2023-02-15.md",
     "Cloud/Oracle to MS SQL.md",
-    "KnowledgeBase/Daily Notes/Untitled.canvas",
-    "KnowledgeBase/Daily Notes/2023-02-13.md"
+    "KnowledgeBase/Daily Notes/Untitled.canvas"
   ]
 }
