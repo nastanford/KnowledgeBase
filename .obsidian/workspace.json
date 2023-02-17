@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md"
+                "file": "KnowledgeBase/Daily Notes/2023-02-17.md"
               }
             }
           }
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +179,10 @@
   },
   "active": "ab0e6d42c876527d",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2023-02-16.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
     "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",

@@ -24,3 +24,19 @@ Modifications, please change:
 
 -   For Places, the fields should be titled Primary Location and Alternate Location _(I can’t recall if it’s like that already)_
 -   For section headers (for People, Places, and Things) it says the department’s name. I’d like the section header to align with the section. For instance, when you click People, People should be the header for the next page.
+--- phone call
+
+
+Essential Process Name,
+Time Sentitivity,
+Primary Person,
+Secondary Person,
+Tertiary Person,
+Primary Location,
+Alternate Location,
+Critical Applications and Records,
+Alternatives to Critical Applications and Records,
+Communications Tools,
+Alternative Communications Tools,
+Equipment,
+Alternative Equipment
