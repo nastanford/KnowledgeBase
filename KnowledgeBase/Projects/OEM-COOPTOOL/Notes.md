@@ -15,7 +15,8 @@ New User added to Users List
 Planner Finished - Approver - send email etc.
 
 
-#### Record of Change - Who will enter this data?
+#### Record of Change - 
+##### Who will enter this data?
 Version
 Date of Change
 Change Made By
