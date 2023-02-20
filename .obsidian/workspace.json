@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AVD - Stuff.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/AVD - Stuff.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/AVD - Stuff.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/AVD - Stuff.md"
+                "file": "KnowledgeBase/Daily Notes/2023-02-20.md"
               }
             }
           }
@@ -205,10 +205,10 @@
   },
   "active": "7733f6ba23b5894b",
   "lastOpenFiles": [
+    "Cloud/AVD - Stuff.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
-    "Cloud/AVD - Stuff.md",
     "Cloud/CFAdmin.md",
     "KnowledgeBase/Daily Notes/2023-02-17.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
