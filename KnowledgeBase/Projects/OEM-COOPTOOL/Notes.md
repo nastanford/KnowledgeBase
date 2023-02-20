@@ -16,10 +16,9 @@ Planner Finished - Approver - send email etc.
 
 
 #### Record of Change - 
-##### Who will enter this data?
-Version
-Date of Change
-Change Made By
-Summary
+- [x] Version
+- [x] Date of Change
+- [x] Change Made By
+- [x] Summary
 
 Approved - Locked until a Planner Unlocks
