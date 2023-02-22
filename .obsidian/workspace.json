@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Coding Standards and Guidelines.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Coding Standards and Guidelines.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Coding Standards and Guidelines.md",
+                "file": "KnowledgeBase/Daily Notes/2023-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Coding Standards and Guidelines.md"
+                "file": "KnowledgeBase/Daily Notes/2023-02-22.md"
               }
             }
           }
@@ -231,6 +231,7 @@
   },
   "active": "38c56dc45ba64d14",
   "lastOpenFiles": [
+    "Cloud/Coding Standards and Guidelines.md",
     "KnowledgeBase/Daily Notes/2023-02-21.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
@@ -239,7 +240,6 @@
     "Cloud/AVD - Stuff.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
     "Cloud/CFAdmin.md",
-    "KnowledgeBase/Daily Notes/2023-02-17.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md"
+    "KnowledgeBase/Daily Notes/2023-02-17.md"
   ]
 }
