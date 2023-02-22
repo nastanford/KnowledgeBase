@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-22.md",
+                "file": "Cloud/AVD - Stuff.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-22.md",
+                "file": "Cloud/AVD - Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-22.md",
+                "file": "Cloud/AVD - Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-22.md"
+                "file": "Cloud/AVD - Stuff.md"
               }
             }
           }
@@ -231,6 +231,7 @@
   },
   "active": "38c56dc45ba64d14",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2023-02-22.md",
     "Cloud/Coding Standards and Guidelines.md",
     "KnowledgeBase/Daily Notes/2023-02-21.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
@@ -239,7 +240,6 @@
     "KnowledgeBase/Daily Notes/2023-02-20.md",
     "Cloud/AVD - Stuff.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
-    "Cloud/CFAdmin.md",
-    "KnowledgeBase/Daily Notes/2023-02-17.md"
+    "Cloud/CFAdmin.md"
   ]
 }

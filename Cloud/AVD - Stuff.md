@@ -5,6 +5,7 @@
 5. Connection to Law Servers Development and Production
 6. Connection to Banner Database Server for multiple projects
 7. Connection to new MS SQL Cloud Databases for Azure Data Studio
-8. Visio ERD 
-9. Balsamiq - https://balsamiq.com/  Wireframe new projects
 
+
+-  Visio ERD 
+- Balsamiq - https://balsamiq.com/  Wireframe new projects
