@@ -82,10 +82,15 @@ The plural file name means we are getting all of the records back for this table
 since these files do an action and should not display anything the user should never see these.
 
 
-# ColdFusion
+## ColdFusion
 
-# PHP
-* Filename: "person.class.php"
+## PHP
+### Classes: 
+* /classes/person.class.php
+* /classes/admin/person.class.php  
+
+### included files: 
+* /includes/person.inc.php
 
 
-# MS SQL
+## MS SQL
