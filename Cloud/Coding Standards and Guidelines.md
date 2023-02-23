@@ -80,3 +80,12 @@ The plural file name means we are getting all of the records back for this table
 "act_insert", “act_update” 
 
 since these files do an action and should not display anything the user should never see these.
+
+
+# ColdFusion
+
+# PHP
+* Filename: "person.class.php"
+
+
+# MS SQL
