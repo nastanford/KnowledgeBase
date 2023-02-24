@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-24.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-24.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-24.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-24.md"
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md"
               }
             }
           }
@@ -244,13 +244,17 @@
   },
   "active": "7801480105ed3b89",
   "lastOpenFiles": [
-    "Cloud/Coding Standards and Guidelines.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
+    "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
+    "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
+    "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
     "KnowledgeBase/Daily Notes/2023-02-24.md",
+    "Cloud/Coding Standards and Guidelines.md",
     "KnowledgeBase/Daily Notes/2023-02-23.md",
     "KnowledgeBase/Daily Notes/2023-02-22.md",
     "KnowledgeBase/Daily Notes/2023-02-21.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
     "KnowledgeBase/Daily Notes/2023-02-20.md",
     "Cloud/AVD - Stuff.md",

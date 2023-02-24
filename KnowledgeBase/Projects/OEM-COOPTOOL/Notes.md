@@ -8,8 +8,15 @@ users
 
 Plans Links
 CSV 
-
 Is there an easy way to impersonate
+Replace Approved Null with empty space
+New User added to Users List
+Planner Finished - Approver - send email etc.
+
+##### Today
+CSV
+Security
+Impersonate a user to see what they see
 Replace Approved Null with empty space
 New User added to Users List
 Planner Finished - Approver - send email etc.
