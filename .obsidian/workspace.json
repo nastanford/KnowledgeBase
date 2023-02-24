@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50b9343deed31d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md"
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md"
               }
             }
           }
@@ -242,10 +255,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7801480105ed3b89",
+  "active": "50b9343deed31d2a",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
+    "KnowledgeBase/Projects/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
     "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
@@ -254,8 +270,6 @@
     "KnowledgeBase/Daily Notes/2023-02-23.md",
     "KnowledgeBase/Daily Notes/2023-02-22.md",
     "KnowledgeBase/Daily Notes/2023-02-21.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Campus - myUMB Portal.md",
     "KnowledgeBase/Daily Notes/2023-02-20.md",
     "Cloud/AVD - Stuff.md",
     "KnowledgeBase/Meeting Notes/DNP/DNP - 2023-02-10 Meeting.md",
