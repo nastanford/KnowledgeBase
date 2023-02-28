@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-28.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-28.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-28.md",
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-02-28.md"
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md"
               }
             }
           }
@@ -257,9 +257,9 @@
   },
   "active": "50b9343deed31d2a",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
-    "KnowledgeBase/Daily Notes/2023-02-28.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
+    "KnowledgeBase/Daily Notes/2023-02-28.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/Campus - myUMB Portal.md",

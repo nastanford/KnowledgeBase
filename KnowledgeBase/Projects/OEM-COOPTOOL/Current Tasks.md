@@ -23,3 +23,22 @@
 - [ ] Alternative Communications Tools
 - [ ] Equipment
 - [ ] Alternative Equipment
+
+
+### Notes
+(People)
+Primary Person,
+Secondary Person,
+Tertiary Person,
+
+(Places)
+Primary Location,
+Alternate Location,
+
+(Things)  
+- Critical Applications and Records,
+- Alternatives to Critical Applications and Records,
+- Communications Tools,
+- Alternative Communications Tools,
+- Equipment,
+- Alternative Equipment
