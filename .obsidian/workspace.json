@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Grow Knowledge.md",
+                "file": "Study/Study.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Grow Knowledge.md",
+                "file": "Study/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Grow Knowledge.md",
+                "file": "Study/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Grow Knowledge.md"
+                "file": "Study/Study.md"
               }
             }
           }
@@ -268,11 +268,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd54e64ea51908bd",
+  "active": "ea12f58d11341a72",
   "lastOpenFiles": [
     "Study",
     "KnowledgeBase/Daily Notes/2023-03-01.md",
-    "Study/Grow Knowledge.md",
+    "Study/Study.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
