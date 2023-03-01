@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea12f58d11341a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Grow Knowledge.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-01.md",
+                "file": "Study/Grow Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-01.md",
+                "file": "Study/Grow Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-01.md"
+                "file": "Study/Grow Knowledge.md"
               }
             }
           }
@@ -255,9 +268,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50b9343deed31d2a",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
+    "Study",
     "KnowledgeBase/Daily Notes/2023-03-01.md",
+    "Study/Grow Knowledge.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
