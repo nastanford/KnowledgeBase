@@ -14,4 +14,8 @@
 - OOP 
 - Vanilla  
 
+### JavaScript
+Node.JS
+Vue.JS
+React.JS
 
