@@ -1,23 +1,8 @@
-## SharePoint Files for Project
-https://umbcits.sharepoint.com/sites/CITSWebDevelopment/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FCITSWebDevelopment%2FShared%20Documents%2FProjects%2FAcademicLaw&FolderCTID=0x012000E2740C82F3CF9146BD9E194B7933B679
-
-## New Design
-https://xd.adobe.com/view/03d13a3a-dbe9-485b-8589-dc042bb1f115-5682/
 
 
 ## Tasks 
 > *things with add/edit/delete may not be in banner.*
 * Faculty Add/Edit/Delete
-* Faculty Publications (Add/Edit/Delete)
-* Course Catalog (Banner)
-- Book List (Add/Edit/Delete) (Complete, MLS, and JDLL)
-- Contacts (Add/Edit/Delete)
-- Reserves (Add/Edit/Delete)
-- Library (Add/Edit/Delete)
-- Campus Directory (Add/Edit/Delete)
--   (Should we try to simply use the UMB Directory and filter it with Law Details so no add/edit/delete needed?)
-Need a List of what I need to work on.
-
 
 ## Question
 ### Faculty Type
@@ -51,3 +36,20 @@ library  - 3
 - Faculty Directors of Academic Programs and Centers
 
 
+# Faculty
+Add Users  Automatically
+===================== (no student employees)
+SOLFAC - Faculty
+SOLSTF - Staff
+SOLAFL - Affiliate
+Status updated if email is found with no UMBGUID - 
+EMAIL to get UMBGUID 
+
+If not in the directory allow adding manually and when the "email" is added check directory for umbguid.
+
+Retired
+- Barabra Gontrum - 12/31
+- Peter Quint -
+
+Make inActive: (Term Status or Overwritten Status)
+If Terminated Change Status in app and move to another table so this can be overwritten.

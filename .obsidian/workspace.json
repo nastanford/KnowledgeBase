@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-02.md",
+                "file": "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-02.md",
+                "file": "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-02.md",
+                "file": "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-02.md"
+                "file": "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md"
               }
             }
           }
@@ -270,8 +270,10 @@
   },
   "active": "ea12f58d11341a72",
   "lastOpenFiles": [
-    "Study/Study.md",
+    "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
+    "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
     "KnowledgeBase/Daily Notes/2023-03-02.md",
+    "Study/Study.md",
     "Study",
     "KnowledgeBase/Daily Notes/2023-03-01.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
