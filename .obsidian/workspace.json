@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Study.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Study.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Study.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Study.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-02.md"
               }
             }
           }
@@ -270,9 +270,10 @@
   },
   "active": "ea12f58d11341a72",
   "lastOpenFiles": [
+    "Study/Study.md",
+    "KnowledgeBase/Daily Notes/2023-03-02.md",
     "Study",
     "KnowledgeBase/Daily Notes/2023-03-01.md",
-    "Study/Study.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
