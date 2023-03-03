@@ -4,6 +4,7 @@
     - Tiffany Andrews - Icons (Not COEUS, Not eUMB)
     - Jun Lei - HR Affiliate - (COEUS,eUMB)
     - Melissa McDaniel-Lee - (eUMB)
+    - Nathan Stanford - session.PortalAdmin ?
  
 
 -   Law – Academic - Application Time  30%  (2% Completed)
