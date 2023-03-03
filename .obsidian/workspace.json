@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "067ba055c5d521cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-03.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-03.md",
+                "file": "KnowledgeBase/Notes/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-03.md",
+                "file": "KnowledgeBase/Notes/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-03.md"
+                "file": "KnowledgeBase/Notes/Projects.md"
               }
             }
           }
@@ -164,7 +150,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "067ba055c5d521cb",
+  "active": "ea12f58d11341a72",
   "lastOpenFiles": [
     "KnowledgeBase/Daily Notes/2023-03-03.md",
     "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
