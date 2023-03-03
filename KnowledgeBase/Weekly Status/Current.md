@@ -1,9 +1,9 @@
 - UMB Portal - 
-    - Add Security Group for HR - HR Affiliate.
-    - Tiffany Andrews - Icons (Not COEUS, Not eUMB)
-    - Jun Lei - HR Affiliate - (COEUS,eUMB)
-    - Melissa McDaniel-Lee - (eUMB)
-    - Find issue for new users not getting the new widgets and icons.
+    - [x] Add Security Group for HR - HR Affiliate.
+    - [x] Tiffany Andrews - Icons (Not COEUS, Not eUMB)
+    - [x] Jun Lei - HR Affiliate - (COEUS,eUMB)
+    - [x] Melissa McDaniel-Lee - (eUMB)
+    - [x] Find issue for new users not getting the new widgets and icons. (Can't find what caused the issue.)
  
 
 -   Law – Academic - Application Time  30%  (2% Completed)

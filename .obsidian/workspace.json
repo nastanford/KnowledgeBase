@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -165,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2363a6fcb578ba20",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
     "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
     "KnowledgeBase/Weekly Status/Current.md",
