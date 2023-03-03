@@ -18,5 +18,7 @@ Projects
 2. Law Academic - 30% Time (Starting to work on this project now)
 3. Nursing DNP Project - (DNP Forms Workflow) (busy - slow to get information) - 30% Time
 4. Nursing Student Reporting - after DNP Forms Workflow
-5. UMB Portal Notifications - Document Signed.  Add Table and UMBGUID
-6. HR-OutOfState
+
+
+5. New -  UMB Portal Notifications - Document Signed.  Add Table and UMBGUID
+6. New - HR-OutOfState
