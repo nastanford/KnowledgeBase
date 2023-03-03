@@ -1,3 +1,7 @@
+- UMB Portal - 
+    - Add Security Group for HR - HR Affiliate.
+    - Find issue for new users not getting the new widgets and icons.
+
 -   Law – Academic - Application Time  30%  (2% Completed)
     -   Meetings to discuss every Wednesday
     -   Tasks 
@@ -5,8 +9,6 @@
 
 - Law - T4 - Time (As Needed)
 	- Available helping with any bugs found with new site.
-
-- UMB Portal - Add Security Group for HR - HR Affiliate.
 
 -   OEM - COOP Tools - Time 30% (100% Complete)
     -   Meeting  
