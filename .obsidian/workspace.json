@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-06.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "59383f5242c1a36b",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-06.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-06.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-06.md"
+                "file": "KnowledgeBase/Weekly Status/Current.md"
               }
             }
           }
@@ -167,8 +166,8 @@
   },
   "active": "ea12f58d11341a72",
   "lastOpenFiles": [
-    "KnowledgeBase/Notes/Projects.md",
     "KnowledgeBase/Daily Notes/2023-03-06.md",
+    "KnowledgeBase/Notes/Projects.md",
     "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
     "KnowledgeBase/Weekly Status/Current.md",
     "KnowledgeBase/Daily Notes/2023-03-03.md",

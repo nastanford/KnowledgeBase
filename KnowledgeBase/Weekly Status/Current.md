@@ -4,6 +4,8 @@
     - [x] Jun Lei - HR Affiliate - (COEUS,eUMB)
     - [x] Melissa McDaniel-Lee - (eUMB)
     - [x] Find issue for new users not getting the new widgets and icons. (Can't find what caused the issue.)
+    - [ ] New Bug report from Dheeraj - fixing
+
  
 
 -   Law – Academic - Application Time  30%  (2% Completed)
