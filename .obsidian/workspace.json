@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2363a6fcb578ba20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-07.md",
+                "file": "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-07.md",
+                "file": "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-07.md"
+                "file": "KnowledgeBase/Projects/Law-Academic/Law - Academic.md"
               }
             }
           }
