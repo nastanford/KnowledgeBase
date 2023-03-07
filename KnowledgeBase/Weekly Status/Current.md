@@ -6,15 +6,12 @@
     - [x] Find issue for new users not getting the new widgets and icons. (Can't find what caused the issue.)
     - [ ] New Bug report from Dheeraj - fixing
 
- 
 
 -   Law – Academic - Application Time  30%  (2% Completed)
     -   Meetings to discuss every Wednesday
     -   Tasks 
         -   Faculty 
-
-- Law - T4 - Time (As Needed)
-	- Available helping with any bugs found with new site.
+        - LDAP in PHP not currently working
 
 -   OEM - COOP Tools - Time 30% (100% Complete)
     -   Meeting  
@@ -23,4 +20,6 @@
 -   SON - Nursing DNP Project forms Time 5%
     -   Had meeting to get this started.
 
+- Law - T4 - Time (As Needed)
+	- Available helping with any bugs found with new site.
  
