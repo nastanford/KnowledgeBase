@@ -20,6 +20,10 @@
 -   SON - Nursing DNP Project forms Time 5%
     -   Had meeting to get this started.
 
+
+-   SON - Assessment database
+
+
 - Law - T4 - Time (As Needed)
 	- Available helping with any bugs found with new site.
  
