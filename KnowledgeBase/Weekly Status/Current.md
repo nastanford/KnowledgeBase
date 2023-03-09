@@ -6,6 +6,9 @@
     - [x] Find issue for new users not getting the new widgets and icons. (Can't find what caused the issue.)
     - [ ] New Bug report from Dheeraj - fixing
 
+- Testing AVD Remote Desktop Solution
+	- Searching for any bugs 
+	- Searching for missing software or settings
 
 -   Law – Academic - Application Time  30%  (2% Completed)
     -   Meetings to discuss every Wednesday
@@ -22,7 +25,6 @@
 
 
 -   SON - Assessment database
-
 
 - Law - T4 - Time (As Needed)
 	- Available helping with any bugs found with new site.
