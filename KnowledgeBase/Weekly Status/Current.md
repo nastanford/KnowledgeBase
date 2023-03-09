@@ -20,9 +20,10 @@
     -   Meeting  
         -   Customer Testing
 
+- HR - Out of State - Telework
+
 -   SON - Nursing DNP Project forms Time 5%
     -   Had meeting to get this started.
-
 
 -   SON - Assessment database
 
