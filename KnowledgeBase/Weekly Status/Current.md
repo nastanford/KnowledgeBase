@@ -4,7 +4,7 @@
     - [x] Jun Lei - HR Affiliate - (COEUS,eUMB)
     - [x] Melissa McDaniel-Lee - (eUMB)
     - [x] Find issue for new users not getting the new widgets and icons. (Can't find what caused the issue.)
-    - [ ] New Bug report from Dheeraj - fixed will be there when moved to MS SQL
+    - [x] New Bug report from Dheeraj - fixed will be there when moved to MS SQL
 
 - Testing AVD Remote Desktop Solution
 	- Searching for any bugs 
