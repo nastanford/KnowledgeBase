@@ -29,4 +29,8 @@
 
 - Law - T4 - Time (As Needed)
 	- Available helping with any bugs found with new site.
- 
+
+Law Academic - On Hold until I can get the PHP ldap to work 
+HR - Out of State - Waiting for required fields and sized of fields
+SON - DNP Project Forms
+
