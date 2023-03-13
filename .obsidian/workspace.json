@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-13.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
-    "KnowledgeBase/GIT/Git Hub Push Current Code.md",
     "KnowledgeBase/Weekly Status/Current.md",
+    "KnowledgeBase/GIT/Git Hub Push Current Code.md",
     "KnowledgeBase/GIT",
     "KnowledgeBase/Daily Notes/2023-03-13.md",
     "KnowledgeBase/Databases/Databases.md",
