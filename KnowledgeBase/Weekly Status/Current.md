@@ -1,36 +1,27 @@
 - UMB Portal - 
-    - [x] Add Security Group for HR - HR Affiliate.
-    - [x] Tiffany Andrews - Icons (Not COEUS, Not eUMB)
-    - [x] Jun Lei - HR Affiliate - (COEUS,eUMB)
-    - [x] Melissa McDaniel-Lee - (eUMB)
-    - [x] Find issue for new users not getting the new widgets and icons. (Can't find what caused the issue.)
     - [x] New Bug report from Dheeraj - fixed will be there when moved to MS SQL
+
+- Law - T4 - 
+	- Fixed bugs found with new site. (2 Days )
 
 - Testing AVD Remote Desktop Solution
 	- Searching for any bugs 
 	- Searching for missing software or settings
 
+-   SON - Nursing DNP Project forms Time 5%
+    -   Had meeting to get this started.
+
 -   Law – Academic - Application Time  30%  (2% Completed)
     -   Meetings to discuss every Wednesday
     -   Tasks 
         -   Faculty 
-        - LDAP in PHP not currently working (Hard stop until the cert will work.)
-
--   OEM - COOP Tools - Time 30% (100% Complete)
-    -   Meeting  
-        -   Customer Testing
+        - LDAP in PHP not currently working (Hard stop until the cert will work.) Going to start using LDAP from CF until we find a solution for LDAP in PHP.
 
 - HR - Out of State - Telework (awaiting requirements for fields required and sizes)
 
--   SON - Nursing DNP Project forms Time 5%
-    -   Had meeting to get this started.
-
 -   SON - Assessment database
+-   OEM - COOP Tools -  (100% Complete)
+    -   Customer Testing
 
-- Law - T4 - Time (As Needed)
-	- Available helping with any bugs found with new site.
-
-Law Academic - On Hold until I can get the PHP ldap to work 
 HR - Out of State - Waiting for required fields and sized of fields
-SON - DNP Project Forms
 
