@@ -3,7 +3,8 @@
 
 - Law - T4 - 
 	- Fixed bugs found with new site. (2 Days )
-
+- UMSON News Feed Issues
+	- Spent some time looking into this issue.
 - Testing AVD Remote Desktop Solution
 	- Searching for any bugs 
 	- Searching for missing software or settings
