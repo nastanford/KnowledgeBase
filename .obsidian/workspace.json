@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-16.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "77b156db37486996",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2023-03-14.md",
     "KnowledgeBase/Weekly Status/Current.md",
+    "KnowledgeBase/Daily Notes/2023-03-16.md",
+    "KnowledgeBase/Daily Notes/2023-03-14.md",
     "KnowledgeBase/Weekly Status/2023-03-13 - 2023-03-17.md",
     "KnowledgeBase/Daily Notes/2023-03-13.md",
     "KnowledgeBase/GIT/Git Hub Push Current Code.md",
@@ -206,7 +207,6 @@
     "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
     "KnowledgeBase/Daily Notes/2023-02-28.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
-    "KnowledgeBase/Projects/Campus - myUMB Portal.md",
-    "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md"
+    "KnowledgeBase/Projects/Campus - myUMB Portal.md"
   ]
 }
