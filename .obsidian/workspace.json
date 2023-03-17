@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-17.md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/Current.md",
+    "KnowledgeBase/Daily Notes/2023-03-17.md",
     "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
     "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
-    "KnowledgeBase/Weekly Status/Current.md",
     "KnowledgeBase/Daily Notes/2023-03-13.md",
     "KnowledgeBase/Daily Notes/2023-03-14.md",
     "KnowledgeBase/Daily Notes/2023-03-16.md",
@@ -206,7 +207,6 @@
     "KnowledgeBase/Daily Notes/2023-03-01.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md"
+    "KnowledgeBase/Projects/OEM-COOPTOOL/Notes.md"
   ]
 }
