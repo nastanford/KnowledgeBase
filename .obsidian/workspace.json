@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-17.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-17.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-17.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-17.md"
+                "file": "KnowledgeBase/Weekly Status/Current.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
-    "KnowledgeBase/Weekly Status/Current.md",
     "KnowledgeBase/Daily Notes/2023-03-17.md",
+    "KnowledgeBase/Weekly Status/Current.md",
     "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
     "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
