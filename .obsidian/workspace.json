@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-21.md",
+                "file": "Cloud/CFAdmin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-21.md",
+                "file": "Cloud/CFAdmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-21.md",
+                "file": "Cloud/CFAdmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-21.md"
+                "file": "Cloud/CFAdmin.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2023-03-20.md",
     "KnowledgeBase/Daily Notes/2023-03-21.md",
+    "KnowledgeBase/Daily Notes/2023-03-20.md",
     "KnowledgeBase/Weekly Status/Current.md",
     "KnowledgeBase/Daily Notes/2023-03-17.md",
     "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
