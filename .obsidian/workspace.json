@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/CFAdmin.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/CFAdmin.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/CFAdmin.md",
+                "file": "KnowledgeBase/Weekly Status/Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/CFAdmin.md"
+                "file": "KnowledgeBase/Weekly Status/Current.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
+    "Cloud/CFAdmin.md",
     "KnowledgeBase/Daily Notes/2023-03-21.md",
     "KnowledgeBase/Daily Notes/2023-03-20.md",
     "KnowledgeBase/Weekly Status/Current.md",
@@ -206,7 +207,6 @@
     "KnowledgeBase/Daily Notes/2023-03-02.md",
     "Study/Study.md",
     "Study",
-    "KnowledgeBase/Daily Notes/2023-03-01.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md"
+    "KnowledgeBase/Daily Notes/2023-03-01.md"
   ]
 }
