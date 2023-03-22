@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-22.md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
+    "KnowledgeBase/Weekly Status/Current.md",
+    "KnowledgeBase/Daily Notes/2023-03-22.md",
     "Cloud/CFAdmin.md",
     "KnowledgeBase/Daily Notes/2023-03-21.md",
     "KnowledgeBase/Daily Notes/2023-03-20.md",
-    "KnowledgeBase/Weekly Status/Current.md",
     "KnowledgeBase/Daily Notes/2023-03-17.md",
     "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
@@ -206,7 +207,6 @@
     "KnowledgeBase/Daily Notes/2023-03-03.md",
     "KnowledgeBase/Daily Notes/2023-03-02.md",
     "Study/Study.md",
-    "Study",
-    "KnowledgeBase/Daily Notes/2023-03-01.md"
+    "Study"
   ]
 }
