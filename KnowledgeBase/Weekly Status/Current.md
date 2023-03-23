@@ -27,29 +27,24 @@
     -   Customer Testing
  
 # Tasks
-##### HR - Out of State 
-- Waiting for required fields and sized of fields
-##### Law-T4 
-- Waiting on Nathan Robertson to find out where the hardcoded values are if there are any.
 ##### SON Nursing DNP Project Forms
 - Database not accessible yet
 - Working on building the forms without submitting to the database
-
+##### HR - Out of State
+- Will start working on building the forms without submitting to the database
+- Request new Database Scheme - hroutofstate (requested)
+##### Law-T4 
+- Waiting on Nathan Robertson to find out where the hardcoded values are if there are any.
 ##### Law Academic 
 - Getting started
   - LDAP Directory call - Not working
   - Faculty
     - Import data from LDAP (see above)
     - Connect to Banner - waiting on the new username and password
-
-##### HR - Out of State
-- Will start working on building the forms without submitting to the database
-- Request new Database Scheme - hroutofstate (requested)
-
 ##### AVD 
 - Testing
--   SON - Assessment database
-
-##### OEM 
+##### SON - Assessment database 
+- Have not started
+##### OEM - COOP TOOLS
    - COOP Tools -  (100% Complete)
      -   Customer Testing (Have not heard from them)
