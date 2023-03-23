@@ -44,7 +44,7 @@
 
 ##### HR - Out of State
 - Will start working on building the forms without submitting to the database
-- Request new Database Scheme - hroutofstate 
+- Request new Database Scheme - hroutofstate (requested)
 
 ##### AVD 
 - Testing
