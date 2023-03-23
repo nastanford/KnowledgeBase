@@ -6,6 +6,7 @@
 	- [x] New Bug found with Dean's name.
 - UMSON News Feed Issues
 	- Spent some time looking into this issue.
+
 - Testing AVD Remote Desktop Solution
 	- Searching for any bugs 
 	- Searching for missing software or settings
