@@ -23,8 +23,6 @@
 - HR - Out of State - Telework (awaiting requirements for fields required and sizes)
 
 -   SON - Assessment database
--   OEM - COOP Tools -  (100% Complete)
-    -   Customer Testing
  
 # Tasks
 ##### SON Nursing DNP Project Forms
@@ -47,4 +45,5 @@
 - Have not started
 ##### OEM - COOP TOOLS
    - COOP Tools -  (100% Complete)
-     -   Customer Testing (Have not heard from them)
+     - Customer Testing (Have not heard from them)
+     - Bugs and Changes
