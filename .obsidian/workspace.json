@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea12f58d11341a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-13.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77b156db37486996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-16.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd2dbf2465b27f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Weekly Status/Current.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-24.md"
               }
             }
           }
@@ -180,8 +153,9 @@
   },
   "active": "cd2dbf2465b27f93",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2023-03-23.md",
     "KnowledgeBase/Weekly Status/Current.md",
+    "KnowledgeBase/Daily Notes/2023-03-24.md",
+    "KnowledgeBase/Daily Notes/2023-03-23.md",
     "KnowledgeBase/Daily Notes/2023-03-22.md",
     "Cloud/CFAdmin.md",
     "KnowledgeBase/Daily Notes/2023-03-21.md",
@@ -206,7 +180,6 @@
     "KnowledgeBase/Daily Notes/2023-03-06.md",
     "KnowledgeBase/Weekly Status/2023-02-15 Weekly.md",
     "KnowledgeBase/Daily Notes/2023-03-03.md",
-    "KnowledgeBase/Daily Notes/2023-03-02.md",
     "Study"
   ]
 }
