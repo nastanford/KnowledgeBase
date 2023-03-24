@@ -1,7 +1,7 @@
 
 ### Bugs
-- Portal - HR Link Bug - Update Code ()
-- Law T4 - Nathan Robertson says ID5 Hardcoded waiting to ask him.
+- [ ] Portal - HR Link Bug - Update Code 
+- [ ] Law T4 - Nathan Robertson says ID5 Hardcoded waiting to ask him.
 ### Projects
 - DNP Project Forms
 	- Got Database working on forms
