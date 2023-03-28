@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15f5d2e69860ae06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -153,11 +166,11 @@
   },
   "active": "3998baf275d1dce2",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2023-03-27.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
     "KnowledgeBase/Daily Notes/2023-03-28.md",
+    "KnowledgeBase/Daily Notes/2023-03-27.md",
     "KnowledgeBase/Weekly Status/2023-03-13 - 2023-03-17.md",
     "KnowledgeBase/Weekly Status/Current.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
     "KnowledgeBase/Daily Notes/2023-03-24.md",
     "KnowledgeBase/Weekly Status/Tasks.md",
     "Tasks",
