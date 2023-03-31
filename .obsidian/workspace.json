@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "file": "KnowledgeBase/Projects/Law - T4/Law - T4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "select ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "file": "KnowledgeBase/Projects/Law - T4/Law - T4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "file": "KnowledgeBase/Projects/Law - T4/Law - T4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md"
+                "file": "KnowledgeBase/Projects/Law - T4/Law - T4.md"
               }
             }
           }
@@ -164,14 +164,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3998baf275d1dce2",
+  "active": "bd54e64ea51908bd",
   "lastOpenFiles": [
+    "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/Campus - myUMB Portal.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Current Tasks.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
     "KnowledgeBase/Daily Notes/2023-03-29.md",
     "KnowledgeBase/Daily Notes/2023-03-31.md",
     "KnowledgeBase/Projects/Law - T4/Law - T4.md",

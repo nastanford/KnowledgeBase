@@ -3,37 +3,7 @@
 
 
 ## Nathan Robertson Notes
-1) The search for all courses scheduled and unscheduled is only returning scheduled courses.   Course detail on those previous courses looks right, but you can't get to course detail if the search doesn't return those results.
-
-2) Co-taught courses on detail page are sometimes duplicating the offering data, but not every time:
-
-This is only one offering but shows up twice:  [https://www.law.umaryland.edu/nathan/course.php?coursenum=502b](https://www.law.umaryland.edu/nathan/course.php?coursenum=502b)
-
-This should be one fall offering, but it shows up twice, plus one spring offering but that one correctly shows up only once: [https://www.law.umaryland.edu/nathan/course.php?coursenum=580b](https://www.law.umaryland.edu/nathan/course.php?coursenum=580b)
-
-This single offering is correctly showing up only once: [https://www.law.umaryland.edu/nathan/course.php?coursenum=553q](https://www.law.umaryland.edu/nathan/course.php?coursenum=553q)
-
-This instructor listing has gone a little crazy.  Two offerings is right (one each semester) but each co-prof is only teaching it once: [https://www.law.umaryland.edu/nathan/course.php?coursenum=537u](https://www.law.umaryland.edu/nathan/course.php?coursenum=537u)
-
-3) Multiple distinct offerings with different profs are showing as if they're co-taught on detail page:
-
-This should be four distinct sections, so there should be 4 offering blocks each with a different prof:  [https://www.law.umaryland.edu/nathan/course.php?coursenum=535a](https://www.law.umaryland.edu/nathan/course.php?coursenum=535a)
-
-This is the same problem, I think.  This is not a co-taught course.  This is two different sections that meet at the same time with one professor, one with an advanced writing option and one without.  So "Stearns" should appear only once on each: [https://www.law.umaryland.edu/nathan/course.php?coursenum=516c](https://www.law.umaryland.edu/nathan/course.php?coursenum=516c)
-
-4) In course detail, when you are showing credits for a current offering, use the tblCurriculum credit, not the tblCourseAc credit:
-
-This offering is for 3 credits.   The course is approved for anywhere from 1 to 3, but this specific offering should be 3:  [https://www.law.umaryland.edu/nathan/course.php?coursenum=537b](https://www.law.umaryland.edu/nathan/course.php?coursenum=537b)
-
-Course.php
-==================
-Current and Previous Instructors - Label
-
-Get only one offering per CRN
-
-Display current instructor and secondary instructor
-
-1. Get the correct offerings
-2. Get the primary and secondary instructors
-
-502b show secondary instructors
+1) Search by "Instruction Type" throws an error;
+2) Future semester courses do not display enrollment limit/seats on CourseCatalog results list;
+3) Second instructors are not displayed on Course full record display;
+4) Something is throwing a deprecated error if error messages are displayed on CourseCatalog.  Arises when CRN is null.
