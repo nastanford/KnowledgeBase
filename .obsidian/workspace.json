@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-31.md"
               }
             }
           }
@@ -167,8 +167,10 @@
   },
   "active": "15f5d2e69860ae06",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2023-03-29.md",
+    "KnowledgeBase/Projects/Law - T4/Law - T4.md",
+    "KnowledgeBase/Daily Notes/2023-03-31.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
+    "KnowledgeBase/Daily Notes/2023-03-29.md",
     "KnowledgeBase/Daily Notes/2023-03-28.md",
     "KnowledgeBase/Daily Notes/2023-03-27.md",
     "KnowledgeBase/Weekly Status/2023-03-13 - 2023-03-17.md",
@@ -193,8 +195,6 @@
     "KnowledgeBase/GIT",
     "KnowledgeBase/Databases/Databases.md",
     "KnowledgeBase/Daily Notes/2023-03-10.md",
-    "KnowledgeBase/Daily Notes/2023-03-09.md",
-    "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
     "Study"
   ]
 }

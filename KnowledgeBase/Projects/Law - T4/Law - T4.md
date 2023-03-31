@@ -24,3 +24,16 @@ This is the same problem, I think.  This is not a co-taught course.  This is t
 4) In course detail, when you are showing credits for a current offering, use the tblCurriculum credit, not the tblCourseAc credit:
 
 This offering is for 3 credits.   The course is approved for anywhere from 1 to 3, but this specific offering should be 3:  [https://www.law.umaryland.edu/nathan/course.php?coursenum=537b](https://www.law.umaryland.edu/nathan/course.php?coursenum=537b)
+
+Course.php
+==================
+Current and Previous Instructors - Label
+
+Get only one offering per CRN
+
+Display current instructor and secondary instructor
+
+1. Get the correct offerings
+2. Get the primary and secondary instructors
+
+502b show secondary instructors
