@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-31.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-31.md",
+                "file": "KnowledgeBase/Daily Notes/2023-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-03-31.md"
+                "file": "KnowledgeBase/Daily Notes/2023-03-29.md"
               }
             }
           }
@@ -165,12 +164,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15f5d2e69860ae06",
+  "active": "3998baf275d1dce2",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/Law - T4/Law - T4.md",
     "KnowledgeBase/Daily Notes/2023-03-31.md",
-    "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
     "KnowledgeBase/Daily Notes/2023-03-29.md",
+    "KnowledgeBase/Projects/Law - T4/Law - T4.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
     "KnowledgeBase/Daily Notes/2023-03-28.md",
     "KnowledgeBase/Daily Notes/2023-03-27.md",
     "KnowledgeBase/Weekly Status/2023-03-13 - 2023-03-17.md",
