@@ -5,7 +5,7 @@
 * Faculty Add/Edit/Delete
 
 ## Question
-### Faculty Type
+### People Type
 **id - name**
 1 -  Professor
 2 -  Adjunct
@@ -14,6 +14,7 @@
 5 -  BioOnly
 6 -  Staff
 7 - Clinical Instructor
+8 - Faculty
 
 ### Dropdown for 
 All      - 1,2,3,4,5,6,7
@@ -54,3 +55,26 @@ Retired
 Make inActive: (Term Status or Overwritten Status)
 If Terminated Change Status in app and move to another table so this can be overwritten.
 
+
+
+Tables
+========
+Person 
+PersonType
+
+Person -  many to many - PersonType
+- Faculty 
+- Dean
+- Staff
+- Student
+
+LDAP 
+- ColdFusion Scheduled Task
+- Remote Link Call to update as well
+
+People - 
+Get the ID's of current People in the law table
+Get the law People that don't exist already 
+
+List of people who do not yet have a UMBGUID,  Email Address
+Look for anyone who has email but not umbguid 
