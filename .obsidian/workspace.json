@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-03.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-03.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-03.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-03.md"
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md"
               }
             }
           }
@@ -153,9 +153,10 @@
   },
   "active": "3998baf275d1dce2",
   "lastOpenFiles": [
+    "KnowledgeBase/Daily Notes/2023-04-03.md",
+    "KnowledgeBase/Daily Notes/2023-04-04.md",
     "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
     "KnowledgeBase/Daily Notes/2023-03-31.md",
-    "KnowledgeBase/Daily Notes/2023-04-03.md",
     "KnowledgeBase/Daily Notes/2023-03-29.md",
     "KnowledgeBase/Projects/Law - T4/Law - T4.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/NEW - 2023-03-24.md",
@@ -179,7 +180,6 @@
     "KnowledgeBase/Daily Notes/2023-03-17.md",
     "KnowledgeBase/Projects/DNP- Forms/2023-02-10 Meeting.md",
     "KnowledgeBase/Projects/DNP- Forms/DNP - Forms Workflow.md",
-    "KnowledgeBase/Projects/DNP- Forms/SON - Nursing DNP Project forms.md",
     "KnowledgeBase/GIT",
     "Study"
   ]
