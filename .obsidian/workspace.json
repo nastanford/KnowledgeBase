@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-03.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-04-04.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-04-04.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Projects/OEM-COOPTOOL/2023-04-04.md"
+                "file": "KnowledgeBase/Daily Notes/2023-04-04.md"
               }
             }
           }
@@ -178,14 +178,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c0f1ac1190e0c7b",
+  "active": "30521eb07f8480ea",
   "lastOpenFiles": [
-    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
+    "KnowledgeBase/Daily Notes/2023-04-03.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-04-04.md",
+    "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-03 Followup.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/OEM - COOP Tools.md",
     "KnowledgeBase/Daily Notes/2023-04-04.md",
-    "KnowledgeBase/Daily Notes/2023-04-03.md",
     "KnowledgeBase/Projects/Law-Academic/Law - Academic.md",
     "KnowledgeBase/Daily Notes/2023-03-31.md",
     "KnowledgeBase/Daily Notes/2023-03-29.md",
