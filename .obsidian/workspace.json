@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-05.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-05.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-05.md",
+                "file": "KnowledgeBase/Daily Notes/2023-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/Daily Notes/2023-04-05.md"
+                "file": "KnowledgeBase/Daily Notes/2023-04-06.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "3c0f1ac1190e0c7b",
   "lastOpenFiles": [
-    "KnowledgeBase/Daily Notes/2023-04-04.md",
     "KnowledgeBase/Daily Notes/2023-04-05.md",
+    "KnowledgeBase/Daily Notes/2023-04-06.md",
+    "KnowledgeBase/Daily Notes/2023-04-04.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/Tasks - 2023-04-04.md",
     "KnowledgeBase/Daily Notes/2023-04-03.md",
     "KnowledgeBase/Projects/OEM-COOPTOOL/2023-02-15 - Notes Emailed.md",
@@ -206,7 +207,6 @@
     "Cloud/CFAdmin.md",
     "KnowledgeBase/Daily Notes/2023-03-21.md",
     "KnowledgeBase/Daily Notes/2023-03-20.md",
-    "KnowledgeBase/Daily Notes/2023-03-17.md",
     "KnowledgeBase/GIT",
     "Study"
   ]
